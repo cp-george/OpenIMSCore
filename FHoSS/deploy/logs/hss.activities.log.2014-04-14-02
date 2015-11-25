@@ -1,0 +1,53 @@
+2014-04-14 02:03:45,956 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2014-04-14 02:03:47,034 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 192.168.11.135
+2014-04-14 02:03:47,889 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2014-04-14 02:03:48,475 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2014-04-14 02:03:51,290 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2014-04-14 02:03:51,382 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2014-04-14 02:03:51,385 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.imsclone01.ece.upatras.gr
+2014-04-14 02:03:51,385 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: imsclone01.ece.upatras.gr
+2014-04-14 02:03:51,386 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2014-04-14 02:03:51,386 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2014-04-14 02:03:51,386 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2014-04-14 02:03:51,386 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2014-04-14 02:03:51,449 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-04-14 02:04:21,460 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-14 02:04:21,705 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-14 02:04:22,457 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-04-14 02:04:22,877 [Thread-12] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-04-14 02:04:23,106 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-14 02:04:23,270 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-04-14 02:04:23,566 [Thread-14] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>bob@imsclone01.ece.upatras.gr</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:bob@imsclone01.ece.upatras.gr</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:192.168.11.135:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria><InitialFilterCriteria><Priority>1</Priority><TriggerPoint><ConditionTypeCNF>1</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>INVITE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>To</Header><Content>.*iptv.imsclone01.ece.upatras.gr.*</Content></SIPHeader><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:192.168.11.135:8010</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria><Extension><Extension><SharedIFCSetID>1</SharedIFCSetID></Extension></Extension></ServiceProfile></IMSSubscription>
+2014-04-14 02:04:23,575 [Thread-14] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:bob@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are Registered!
+2014-04-14 02:04:24,829 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-04-14 02:05:44,961 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-04-14 02:06:16,463 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-14 02:06:16,532 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-04-14 02:06:16,551 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-04-14 02:06:16,560 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-14 02:06:16,581 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-04-14 02:06:16,623 [Thread-11] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>alice@imsclone01.ece.upatras.gr</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:alice@imsclone01.ece.upatras.gr</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:192.168.11.135:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria><InitialFilterCriteria><Priority>1</Priority><TriggerPoint><ConditionTypeCNF>1</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>INVITE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>To</Header><Content>.*iptv.imsclone01.ece.upatras.gr.*</Content></SIPHeader><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:192.168.11.135:8010</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria><Extension><Extension><SharedIFCSetID>1</SharedIFCSetID></Extension></Extension></ServiceProfile></IMSSubscription>
+2014-04-14 02:06:16,627 [Thread-11] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:alice@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are Registered!
+2014-04-14 02:06:24,829 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-04-14 02:07:44,959 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-04-14 02:14:16,592 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-14 02:14:16,686 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-04-14 02:14:16,705 [Thread-14] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-04-14 02:14:16,716 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-14 02:14:16,772 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-04-14 02:14:16,842 [Thread-15] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:alice@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are De-Registered!
+2014-04-14 02:14:18,347 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-14 02:14:18,369 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-04-14 02:14:18,381 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-04-14 02:14:18,388 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-04-14 02:14:18,422 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-04-14 02:14:18,477 [Thread-11] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:bob@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are De-Registered!

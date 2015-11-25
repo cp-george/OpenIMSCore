@@ -1,0 +1,12 @@
+2013-11-27 00:04:53,540 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2013-11-27 00:04:53,554 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2013-11-27 00:04:53,574 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2013-11-27 00:04:53,594 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2013-11-27 00:04:53,625 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2013-11-27 00:04:53,744 [Thread-12] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:bob@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are De-Registered!
+2013-11-27 00:04:54,062 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2013-11-27 00:04:54,076 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2013-11-27 00:04:54,105 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2013-11-27 00:04:54,131 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2013-11-27 00:04:54,142 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2013-11-27 00:04:54,171 [Thread-16] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:alice@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are De-Registered!

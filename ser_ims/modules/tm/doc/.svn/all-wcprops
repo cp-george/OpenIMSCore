@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/repos/openimscore/!svn/ver/25/ser_ims/trunk/modules/tm/doc
+END
+tm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/tm/doc/tm.xml
+END
+params.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/tm/doc/params.xml
+END
+functions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/tm/doc/functions.xml
+END
+api.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/tm/doc/api.xml
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/tm/doc/Makefile
+END

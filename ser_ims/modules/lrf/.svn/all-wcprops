@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/1002/ser_ims/trunk/modules/lrf
+END
+locsip.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/994/ser_ims/trunk/modules/lrf/locsip.h
+END
+locsip_subscribe.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/openimscore/!svn/ver/994/ser_ims/trunk/modules/lrf/locsip_subscribe.h
+END
+auth_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/994/ser_ims/trunk/modules/lrf/auth_api.h
+END
+sip.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/994/ser_ims/trunk/modules/lrf/sip.h
+END
+parse_content.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/994/ser_ims/trunk/modules/lrf/parse_content.c
+END
+dlg_state.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/995/ser_ims/trunk/modules/lrf/dlg_state.c
+END
+user_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/994/ser_ims/trunk/modules/lrf/user_data.c
+END
+parse_content.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/994/ser_ims/trunk/modules/lrf/parse_content.h
+END
+multipart_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/994/ser_ims/trunk/modules/lrf/multipart_parse.c
+END
+dlg_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/994/ser_ims/trunk/modules/lrf/dlg_state.h
+END
+user_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/994/ser_ims/trunk/modules/lrf/user_data.h
+END
+sdp_helpr_funcs.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/994/ser_ims/trunk/modules/lrf/sdp_helpr_funcs.c
+END
+mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/994/ser_ims/trunk/modules/lrf/mod.c
+END
+multipart_parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/994/ser_ims/trunk/modules/lrf/multipart_parse.h
+END
+lost.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/994/ser_ims/trunk/modules/lrf/lost.c
+END
+sdp_helpr_funcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/994/ser_ims/trunk/modules/lrf/sdp_helpr_funcs.h
+END
+mod.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/994/ser_ims/trunk/modules/lrf/mod.h
+END
+lost.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/994/ser_ims/trunk/modules/lrf/lost.h
+END
+locsip.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/994/ser_ims/trunk/modules/lrf/locsip.c
+END
+locsip_subscribe.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/openimscore/!svn/ver/995/ser_ims/trunk/modules/lrf/locsip_subscribe.c
+END
+auth_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/994/ser_ims/trunk/modules/lrf/auth_api.c
+END
+sip.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/994/ser_ims/trunk/modules/lrf/sip.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/1002/ser_ims/trunk/modules/lrf/Makefile
+END

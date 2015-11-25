@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/sanity
+END
+mod_sanity.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/sanity/mod_sanity.c
+END
+sanity.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/sanity/sanity.c
+END
+mod_sanity.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/sanity/mod_sanity.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/sanity/Makefile
+END
+sanity.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/sanity/sanity.h
+END

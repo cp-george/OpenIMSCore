@@ -1,0 +1,407 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/1179/ser_ims/trunk/modules/cdp
+END
+diameter_avp.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/1144/ser_ims/trunk/modules/cdp/diameter_avp.c
+END
+cdp_load.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/cdp/cdp_load.c
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/1078/ser_ims/trunk/modules/cdp/config.c
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/951/ser_ims/trunk/modules/cdp/utils.h
+END
+configdtd.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/1078/ser_ims/trunk/modules/cdp/configdtd.h
+END
+RFC3588_auth_state_machine_client.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/repos/openimscore/!svn/ver/957/ser_ims/trunk/modules/cdp/RFC3588_auth_state_machine_client.png
+END
+RFC3588_acct_state_machine_server.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/repos/openimscore/!svn/ver/957/ser_ims/trunk/modules/cdp/RFC3588_acct_state_machine_server.png
+END
+cdp_load.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/cdp/cdp_load.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/1078/ser_ims/trunk/modules/cdp/config.h
+END
+diameter_epc_code_app.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/1137/ser_ims/trunk/modules/cdp/diameter_epc_code_app.h
+END
+peermanager.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/937/ser_ims/trunk/modules/cdp/peermanager.c
+END
+authstatemachine.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/openimscore/!svn/ver/959/ser_ims/trunk/modules/cdp/authstatemachine.c
+END
+peermanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/935/ser_ims/trunk/modules/cdp/peermanager.h
+END
+authstatemachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/cdp/authstatemachine.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/1178/ser_ims/trunk/modules/cdp/Makefile
+END
+RFC3588_auth_state_machine_server.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/repos/openimscore/!svn/ver/957/ser_ims/trunk/modules/cdp/RFC3588_auth_state_machine_server.png
+END
+diameter_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/1104/ser_ims/trunk/modules/cdp/diameter_msg.c
+END
+diameter_ims_code_app.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/1179/ser_ims/trunk/modules/cdp/diameter_ims_code_app.h
+END
+tcp_accept.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/cdp/tcp_accept.c
+END
+tcp_accept.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/cdp/tcp_accept.h
+END
+mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/cdp/mod.c
+END
+mod.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/cdp/mod.h
+END
+routing.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/cdp/routing.c
+END
+diameter_code_result.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/openimscore/!svn/ver/1019/ser_ims/trunk/modules/cdp/diameter_code_result.h
+END
+sem.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/951/ser_ims/trunk/modules/cdp/sem.h
+END
+routing.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/355/ser_ims/trunk/modules/cdp/routing.h
+END
+diameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/1018/ser_ims/trunk/modules/cdp/diameter.h
+END
+diameter_code_avp.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/openimscore/!svn/ver/1138/ser_ims/trunk/modules/cdp/diameter_code_avp.h
+END
+acceptor.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/257/ser_ims/trunk/modules/cdp/acceptor.c
+END
+receiver.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/1113/ser_ims/trunk/modules/cdp/receiver.c
+END
+acceptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/cdp/acceptor.h
+END
+diameter_peer.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/936/ser_ims/trunk/modules/cdp/diameter_peer.c
+END
+mod_wharf.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/cdp/mod_wharf.c
+END
+api_process.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/cdp/api_process.c
+END
+receiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/702/ser_ims/trunk/modules/cdp/receiver.h
+END
+diameter_peer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/710/ser_ims/trunk/modules/cdp/diameter_peer.h
+END
+mod_wharf.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/710/ser_ims/trunk/modules/cdp/mod_wharf.h
+END
+api_process.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/80/ser_ims/trunk/modules/cdp/api_process.h
+END
+peerstatemachine.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/1078/ser_ims/trunk/modules/cdp/peerstatemachine.c
+END
+RFC3588_peer_state_machine_1.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/repos/openimscore/!svn/ver/957/ser_ims/trunk/modules/cdp/RFC3588_peer_state_machine_1.png
+END
+RFC3588_peer_state_machine_2.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/repos/openimscore/!svn/ver/957/ser_ims/trunk/modules/cdp/RFC3588_peer_state_machine_2.png
+END
+peerstatemachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/cdp/peerstatemachine.h
+END
+diameter_epc_code_avp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/1163/ser_ims/trunk/modules/cdp/diameter_epc_code_avp.h
+END
+peer.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/cdp/peer.c
+END
+diameter_ims_code_result.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/openimscore/!svn/ver/1018/ser_ims/trunk/modules/cdp/diameter_ims_code_result.h
+END
+peer.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/959/ser_ims/trunk/modules/cdp/peer.h
+END
+diameter_epc_code_cmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/1137/ser_ims/trunk/modules/cdp/diameter_epc_code_cmd.h
+END
+diameter_comm.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/1010/ser_ims/trunk/modules/cdp/diameter_comm.c
+END
+diameter_ims_code_avp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/1019/ser_ims/trunk/modules/cdp/diameter_ims_code_avp.h
+END
+diameter_ims.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/1018/ser_ims/trunk/modules/cdp/diameter_ims.h
+END
+worker.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/1010/ser_ims/trunk/modules/cdp/worker.c
+END
+RFC3588.vsd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/957/ser_ims/trunk/modules/cdp/RFC3588.vsd
+END
+diameter_epc_code_result.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/openimscore/!svn/ver/1137/ser_ims/trunk/modules/cdp/diameter_epc_code_result.h
+END
+worker.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/cdp/worker.h
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/935/ser_ims/trunk/modules/cdp/timer.c
+END
+RFC3588_acct_state_machine_client.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/repos/openimscore/!svn/ver/957/ser_ims/trunk/modules/cdp/RFC3588_acct_state_machine_client.png
+END
+configparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/1078/ser_ims/trunk/modules/cdp/configparser.c
+END
+session.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/935/ser_ims/trunk/modules/cdp/session.c
+END
+globals.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/710/ser_ims/trunk/modules/cdp/globals.c
+END
+diameter_ims_code_cmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/1018/ser_ims/trunk/modules/cdp/diameter_ims_code_cmd.h
+END
+transaction.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/935/ser_ims/trunk/modules/cdp/transaction.c
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/935/ser_ims/trunk/modules/cdp/timer.h
+END
+diameter_epc.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/1018/ser_ims/trunk/modules/cdp/diameter_epc.h
+END
+session.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/959/ser_ims/trunk/modules/cdp/session.h
+END
+globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/723/ser_ims/trunk/modules/cdp/globals.h
+END
+diameter_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/cdp/diameter_api.h
+END
+transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/935/ser_ims/trunk/modules/cdp/transaction.h
+END

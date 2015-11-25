@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/oracle
+END
+dbase.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/oracle/dbase.c
+END
+prepare.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/oracle/prepare.c
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/oracle/utils.c
+END
+dbase.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/oracle/dbase.h
+END
+prepare.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/oracle/prepare.h
+END
+db_mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/oracle/db_mod.c
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/oracle/utils.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/oracle/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/oracle/README
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/oracle/common.h
+END

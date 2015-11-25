@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/repos/openimscore/!svn/ver/336/ser_ims/trunk/modules/tls
+END
+tls_domain.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/tls/tls_domain.h
+END
+tls_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/tls/tls_util.c
+END
+tls_mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/336/ser_ims/trunk/modules/tls/tls_mod.c
+END
+tls_select.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/336/ser_ims/trunk/modules/tls/tls_select.c
+END
+tls_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/tls/tls_util.h
+END
+tls_mod.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/tls/tls_mod.h
+END
+tls_rpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/tls/tls_rpc.c
+END
+tls_select.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/336/ser_ims/trunk/modules/tls/tls_select.h
+END
+tls_locking.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/tls/tls_locking.c
+END
+tls_rpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/tls/tls_rpc.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/tls/README
+END
+tls_locking.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/tls/tls_locking.h
+END
+README.TLS
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/tls/README.TLS
+END
+tls.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/tls/tls.cfg
+END
+tls_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/tls/tls_init.c
+END
+fixed_c_zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/tls/fixed_c_zlib.h
+END
+tls_verify.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/tls/tls_verify.c
+END
+tls_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/tls/tls_config.c
+END
+tls_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/tls/tls_server.c
+END
+tls_domain.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/tls/tls_domain.c
+END
+tls_init.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/tls/tls_init.h
+END
+tls_verify.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/tls/tls_verify.h
+END
+tls_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/tls/tls_config.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/tls/Makefile
+END
+tls_server.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/tls/tls_server.h
+END

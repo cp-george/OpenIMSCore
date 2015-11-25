@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/osp
+END
+provider.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/osp/provider.h
+END
+osp_mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/osp/osp_mod.c
+END
+RELEASE-NOTES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/osp/RELEASE-NOTES.txt
+END
+sipheader.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/osp/sipheader.c
+END
+usage.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/osp/usage.c
+END
+osp_mod.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/osp/osp_mod.h
+END
+orig_transaction.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/osp/orig_transaction.c
+END
+osptoolkit.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/osp/osptoolkit.c
+END
+sipheader.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/osp/sipheader.h
+END
+usage.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/osp/usage.h
+END
+orig_transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/osp/orig_transaction.h
+END
+osptoolkit.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/osp/osptoolkit.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/osp/README
+END
+term_transaction.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/osp/term_transaction.c
+END
+tm.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/osp/tm.c
+END
+destination.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/osp/destination.c
+END
+term_transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/osp/term_transaction.h
+END
+globals.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/osp/globals.c
+END
+tm.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/osp/tm.h
+END
+destination.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/osp/destination.h
+END
+provider.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/osp/provider.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/osp/Makefile
+END

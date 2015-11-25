@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/src/de/fhg/fokus/hss/db/op
+END
+IMSU_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/openimscore/!svn/ver/518/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/IMSU_DAO.java
+END
+ShSubscription_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/ShSubscription_DAO.java
+END
+DSAI_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/DSAI_DAO.java
+END
+Capability_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/Capability_DAO.java
+END
+ShNotification_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/ShNotification_DAO.java
+END
+VisitedNetwork_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/VisitedNetwork_DAO.java
+END
+SP_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/SP_DAO.java
+END
+TP_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/TP_DAO.java
+END
+IMPI_IMPU_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/IMPI_IMPU_DAO.java
+END
+ApplicationServer_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/ApplicationServer_DAO.java
+END
+IMPI_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/IMPI_DAO.java
+END
+ChargingInfo_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/ChargingInfo_DAO.java
+END
+CxEvents_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/CxEvents_DAO.java
+END
+DB_Op.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/DB_Op.java
+END
+IFC_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/IFC_DAO.java
+END
+DSAI_IFC_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/DSAI_IFC_DAO.java
+END
+Shared_IFC_Set_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/Shared_IFC_Set_DAO.java
+END
+SP_IFC_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/SP_IFC_DAO.java
+END
+SP_Shared_IFC_Set_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/SP_Shared_IFC_Set_DAO.java
+END
+CapabilitiesSet_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/CapabilitiesSet_DAO.java
+END
+SPT_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/SPT_DAO.java
+END
+RepositoryData_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/RepositoryData_DAO.java
+END
+IMPU_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/IMPU_DAO.java
+END
+DSAI_IMPU_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/DSAI_IMPU_DAO.java
+END
+Preferred_SCSCF_Set_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/repos/openimscore/!svn/ver/488/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/Preferred_SCSCF_Set_DAO.java
+END
+IMPU_VisitedNetwork_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/IMPU_VisitedNetwork_DAO.java
+END
+AliasesRepositoryData_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/AliasesRepositoryData_DAO.java
+END
+Zh_USS_DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/op/Zh_USS_DAO.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/exec
+END
+kill.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/exec/kill.h
+END
+exec_hf.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/exec/exec_hf.c
+END
+exec_mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/exec/exec_mod.c
+END
+exec.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/exec/exec.c
+END
+exec_hf.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/exec/exec_hf.h
+END
+exec.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/exec/exec.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/exec/config.h
+END
+kill.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/exec/kill.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/exec/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/exec/README
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/domain
+END
+domain_rpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/domain/domain_rpc.h
+END
+hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/domain/hash.c
+END
+domain_mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/domain/domain_mod.c
+END
+domain.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/domain/domain.c
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/domain/hash.h
+END
+domain_mod.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/domain/domain_mod.h
+END
+domain_rpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/domain/domain_rpc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/domain/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/domain/README
+END
+domain.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/domain/domain.h
+END

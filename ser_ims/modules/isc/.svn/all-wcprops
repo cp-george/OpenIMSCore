@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/1182/ser_ims/trunk/modules/isc
+END
+mark.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/490/ser_ims/trunk/modules/isc/mark.h
+END
+sip.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/1182/ser_ims/trunk/modules/isc/sip.h
+END
+checker.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/692/ser_ims/trunk/modules/isc/checker.c
+END
+checker.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/571/ser_ims/trunk/modules/isc/checker.h
+END
+isc.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/696/ser_ims/trunk/modules/isc/isc.c
+END
+mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/696/ser_ims/trunk/modules/isc/mod.c
+END
+isc.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/398/ser_ims/trunk/modules/isc/isc.h
+END
+mod.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/430/ser_ims/trunk/modules/isc/mod.h
+END
+ims_pm.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/317/ser_ims/trunk/modules/isc/ims_pm.c
+END
+third_party_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/openimscore/!svn/ver/1182/ser_ims/trunk/modules/isc/third_party_reg.c
+END
+ims_pm.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/317/ser_ims/trunk/modules/isc/ims_pm.h
+END
+mark.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/490/ser_ims/trunk/modules/isc/mark.c
+END
+third_party_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/openimscore/!svn/ver/1182/ser_ims/trunk/modules/isc/third_party_reg.h
+END
+sip.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/1182/ser_ims/trunk/modules/isc/sip.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/692/ser_ims/trunk/modules/isc/Makefile
+END

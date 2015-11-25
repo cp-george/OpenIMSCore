@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/auth_db
+END
+authorize.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/auth_db/authorize.h
+END
+rfc2617.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/auth_db/rfc2617.h
+END
+aaa_avps.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/auth_db/aaa_avps.h
+END
+authdb_mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/auth_db/authdb_mod.c
+END
+authorize.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/auth_db/authorize.c
+END
+rfc2617.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/auth_db/rfc2617.c
+END
+authdb_mod.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/auth_db/authdb_mod.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/auth_db/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/auth_db/README
+END

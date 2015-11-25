@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/repos/openimscore/!svn/ver/1107/ser_ims/trunk/modules/mgcf
+END
+mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/676/ser_ims/trunk/modules/mgcf/mod.c
+END
+release_call.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/mgcf/release_call.h
+END
+sip.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/671/ser_ims/trunk/modules/mgcf/sip.h
+END
+mgcf.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/671/ser_ims/trunk/modules/mgcf/mgcf.h
+END
+mod.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/671/ser_ims/trunk/modules/mgcf/mod.h
+END
+dlg_state.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/mgcf/dlg_state.c
+END
+sip_body.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/mgcf/sip_body.c
+END
+dlg_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/671/ser_ims/trunk/modules/mgcf/dlg_state.h
+END
+release_call.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/mgcf/release_call.c
+END
+sip.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/671/ser_ims/trunk/modules/mgcf/sip.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/671/ser_ims/trunk/modules/mgcf/Makefile
+END
+mgcf.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/1107/ser_ims/trunk/modules/mgcf/mgcf.c
+END
+sip_body.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/mgcf/sip_body.h
+END

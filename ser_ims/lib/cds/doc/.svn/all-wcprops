@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc
+END
+push_message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/push_message.xml
+END
+sstream_put_zt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/sstream_put_zt.xml
+END
+cds_malloc_ptr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/cds_malloc_ptr.xml
+END
+get_serialized_sstream.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/get_serialized_sstream.xml
+END
+sstr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/sstr.xml
+END
+cds_free_ptr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/cds_free_ptr.xml
+END
+dstr_init.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/dstr_init.xml
+END
+sstream_t.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/sstream_t.xml
+END
+pop_message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/pop_message.xml
+END
+str_free_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/str_free_content.xml
+END
+mq_message_t.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/mq_message_t.xml
+END
+cds_mutex_destroy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/cds_mutex_destroy.xml
+END
+sstream_get_str.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/sstream_get_str.xml
+END
+sstream_put.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/sstream_put.xml
+END
+create_message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/create_message.xml
+END
+cds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/cds.xml
+END
+msg_queue_t.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/msg_queue_t.xml
+END
+msg_queue_init.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/msg_queue_init.xml
+END
+cds_mutex_init.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/cds_mutex_init.xml
+END
+str_clear.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/str_clear.xml
+END
+init_input_sstream.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/init_input_sstream.xml
+END
+str_dup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/str_dup.xml
+END
+init_output_sstream.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/init_output_sstream.xml
+END
+serialize_char.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/serialize_char.xml
+END
+free_message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/free_message.xml
+END
+serialize_uint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/serialize_uint.xml
+END
+destroy_sstream.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/destroy_sstream.xml
+END
+msg_queue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/msg_queue.xml
+END
+str_t.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/str_t.xml
+END
+dstring_t.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/dstring_t.xml
+END
+sstream_put_str.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/sstream_put_str.xml
+END
+cds_malloc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/cds_malloc.xml
+END
+serialize_int.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/serialize_int.xml
+END
+sstream_get_str_ex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/sstream_get_str_ex.xml
+END
+set_data_destroy_function.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/set_data_destroy_function.xml
+END
+msg_queue_destroy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/msg_queue_destroy.xml
+END
+is_msg_queue_empty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/is_msg_queue_empty.xml
+END
+init_message_ex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/init_message_ex.xml
+END
+cds_mutex_lock.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/cds_mutex_lock.xml
+END
+create_message_ex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/create_message_ex.xml
+END
+dstr_append.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/dstr_append.xml
+END
+dstr_get_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/dstr_get_data.xml
+END
+cds_mutex_unlock.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/cds_mutex_unlock.xml
+END
+memory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/memory.xml
+END
+msg_queue_init_ex.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/msg_queue_init_ex.xml
+END
+serialize_uchar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/serialize_uchar.xml
+END
+str_free.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/str_free.xml
+END
+str_other.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/str_other.xml
+END
+dstring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/dstring.xml
+END
+cds_free.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/cds_free.xml
+END
+sync.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/sync.xml
+END
+serialization.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/serialization.xml
+END
+sstream_get.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/sstream_get.xml
+END
+cds_mutex_t.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/cds_mutex_t.xml
+END
+serialize_str.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/lib/cds/doc/serialize_str.xml
+END

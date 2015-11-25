@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/rpc
+END
+rpc_example.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/rpc/rpc_example.png
+END
+rpc_example.dia
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/rpc/rpc_example.dia
+END
+ser_rpc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/rpc/ser_rpc.xml
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/rpc/Makefile
+END

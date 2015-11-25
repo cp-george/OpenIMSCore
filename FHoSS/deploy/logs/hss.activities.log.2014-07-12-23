@@ -1,0 +1,295 @@
+2014-07-12 23:55:37,210 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2014-07-12 23:55:39,197 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 192.168.11.135
+2014-07-12 23:55:40,706 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2014-07-12 23:55:41,673 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2014-07-12 23:55:45,761 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2014-07-12 23:55:46,036 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2014-07-12 23:55:46,047 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.imsclone01.ece.upatras.gr
+2014-07-12 23:55:46,048 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: imsclone01.ece.upatras.gr
+2014-07-12 23:55:46,050 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2014-07-12 23:55:46,052 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2014-07-12 23:55:46,053 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2014-07-12 23:55:46,053 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2014-07-12 23:55:46,154 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-07-12 23:57:24,267 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:24,275 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:24,275 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:24,275 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:27,739 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:27,749 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:27,740 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:27,833 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:27,872 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:27,868 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:27,966 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:27,986 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,008 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,018 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,030 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,115 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,123 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,126 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,140 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,155 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,171 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,188 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,199 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,207 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,230 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,249 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,255 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,266 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,272 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,282 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,287 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,305 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,327 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,338 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,342 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,346 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,353 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,368 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,368 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,376 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,387 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,443 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,448 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,464 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,467 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,472 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,484 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,489 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,493 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,500 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,520 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:28,525 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:58,730 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:58,742 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:58,758 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:58,770 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:58,778 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:58,784 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:58,828 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:58,840 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:58,853 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:58,883 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:58,895 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:58,911 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:58,921 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:58,931 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:58,942 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:58,951 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,416 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,421 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,427 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,433 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,444 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,462 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,473 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,485 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,491 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,497 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,505 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,606 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,632 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,634 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,656 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,724 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,745 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,792 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,808 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,814 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,822 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,830 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,863 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,865 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,872 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,879 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,903 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,907 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,912 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,920 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,935 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:57:59,949 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:34,792 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:34,798 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:34,802 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:34,812 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:34,815 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:34,828 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:34,833 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:34,837 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:34,851 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:34,859 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:34,888 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:34,894 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:34,902 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:34,907 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:34,920 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:34,943 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:35,799 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:35,813 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:35,829 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:35,842 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:35,855 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:35,876 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:35,911 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:35,925 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:35,930 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:35,937 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:36,011 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:36,125 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:36,127 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:36,137 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:36,147 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:36,151 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:36,155 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:36,159 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:36,167 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:36,176 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:36,186 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:36,584 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:36,591 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:36,654 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:36,656 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:36,660 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:36,664 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:36,668 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:36,677 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:36,996 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:37,001 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:37,045 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:38,033 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-12 23:58:38,469 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-12 23:58:39,271 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-12 23:58:39,611 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-12 23:58:39,826 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-12 23:58:40,023 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-07-12 23:58:40,427 [Thread-12] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>alice@imsclone01.ece.upatras.gr</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:alice@imsclone01.ece.upatras.gr</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:192.168.11.135:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria><InitialFilterCriteria><Priority>1</Priority><TriggerPoint><ConditionTypeCNF>1</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>INVITE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>To</Header><Content>.*iptv.imsclone01.ece.upatras.gr.*</Content></SIPHeader><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:192.168.11.135:8010</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria><Extension><Extension><SharedIFCSetID>1</SharedIFCSetID></Extension></Extension></ServiceProfile></IMSSubscription>
+2014-07-12 23:58:40,564 [Thread-12] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:alice@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are Registered!
+2014-07-12 23:58:45,067 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:54,683 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:58:55,092 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-07-12 23:58:55,276 [Thread-17] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>null</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:bob@imsclone01.ece.upatras.gr</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:192.168.11.135:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria><InitialFilterCriteria><Priority>1</Priority><TriggerPoint><ConditionTypeCNF>1</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>INVITE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>To</Header><Content>.*iptv.imsclone01.ece.upatras.gr.*</Content></SIPHeader><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:192.168.11.135:8010</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria><Extension><Extension><SharedIFCSetID>1</SharedIFCSetID></Extension></Extension></ServiceProfile></IMSSubscription>
+2014-07-12 23:58:55,357 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-07-12 23:58:55,522 [Thread-17] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:bob@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are Un-Registered!
+2014-07-12 23:58:55,525 [Thread-18] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>null</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:bob@imsclone01.ece.upatras.gr</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:192.168.11.135:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria><InitialFilterCriteria><Priority>1</Priority><TriggerPoint><ConditionTypeCNF>1</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>INVITE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>To</Header><Content>.*iptv.imsclone01.ece.upatras.gr.*</Content></SIPHeader><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:192.168.11.135:8010</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria><Extension><Extension><SharedIFCSetID>1</SharedIFCSetID></Extension></Extension></ServiceProfile></IMSSubscription>
+2014-07-12 23:58:55,528 [Thread-18] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:bob@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are Un-Registered!
+2014-07-12 23:59:07,206 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:11,142 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:11,281 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:11,299 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:11,304 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:11,312 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:11,323 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:11,557 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:11,836 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:11,842 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:11,848 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,135 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,137 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,139 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,164 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,169 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,224 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,313 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,320 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,326 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,355 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,356 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,365 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,373 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,394 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,446 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,458 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,464 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,468 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,524 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,534 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,539 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,547 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,586 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,654 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,659 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,663 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,671 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,774 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,887 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,893 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,899 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,984 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:12,997 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:13,012 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:13,017 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:13,035 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:13,041 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:13,047 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:13,057 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:13,072 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:47,703 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:47,743 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:47,753 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:47,760 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:47,766 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:47,777 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:47,784 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:47,806 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:47,814 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:47,839 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:47,848 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:47,858 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:47,876 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:47,886 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:47,891 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:47,929 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,162 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,169 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,173 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,177 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,183 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,187 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,200 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,237 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,243 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,248 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,253 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,257 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,270 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,274 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,278 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,287 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,297 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,306 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,310 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,314 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,319 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,323 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,327 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,331 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,336 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,341 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,345 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,349 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,385 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,400 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,406 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:48,414 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-12 23:59:57,906 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-12 23:59:57,968 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-12 23:59:57,975 [Thread-13] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-12 23:59:58,156 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-12 23:59:58,192 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-07-12 23:59:58,265 [Thread-11] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:alice@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are De-Registered!

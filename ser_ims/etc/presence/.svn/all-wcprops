@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/presence
+END
+full-no-failover.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/presence/full-no-failover.cfg
+END
+no-db.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/presence/no-db.cfg
+END

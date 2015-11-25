@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/presence_b2b
+END
+events_uac.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/presence_b2b/events_uac.h
+END
+euac_state_machine.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/presence_b2b/euac_state_machine.c
+END
+euac_internals.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/presence_b2b/euac_internals.h
+END
+events_mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/presence_b2b/events_mod.c
+END
+trace.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/presence_b2b/trace.h
+END
+euac_state_machine.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/presence_b2b/euac_state_machine.h
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/presence_b2b/ChangeLog
+END
+qsa_events.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/presence_b2b/qsa_events.c
+END
+events_mod.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/presence_b2b/events_mod.h
+END
+euac_funcs.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/presence_b2b/euac_funcs.c
+END
+qsa_events.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/presence_b2b/qsa_events.h
+END
+euac_funcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/presence_b2b/euac_funcs.h
+END
+rpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/presence_b2b/rpc.c
+END
+rpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/presence_b2b/rpc.h
+END
+euac_internals.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/presence_b2b/euac_internals.c
+END
+events_uac.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/presence_b2b/events_uac.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/presence_b2b/Makefile
+END

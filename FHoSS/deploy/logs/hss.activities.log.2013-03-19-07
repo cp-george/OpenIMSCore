@@ -1,0 +1,145 @@
+2013-03-19 07:11:55,066 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-19 07:11:55,757 [main] ERROR org.apache.coyote.http11.Http11Protocol  - Error initializing endpoint
+java.net.BindException: Address already in use:8080
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.initEndpoint(PoolTcpEndpoint.java:297)
+	at org.apache.coyote.http11.Http11Protocol.init(Http11Protocol.java:142)
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:928)
+	at org.apache.catalina.startup.Embedded.start(Embedded.java:794)
+	at de.fhg.fokus.hss.main.TomcatServer.startTomcat(TomcatServer.java:128)
+	at de.fhg.fokus.hss.main.HSSContainer.<init>(HSSContainer.java:74)
+	at de.fhg.fokus.hss.main.HSSContainer.main(HSSContainer.java:110)
+2013-03-19 07:11:55,759 [main] ERROR de.fhg.fokus.hss.main.HSSContainer  - Exception occured during starting Tomcat!
+Exiting from HSS...
+2013-03-19 07:12:32,889 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-19 07:12:33,529 [main] ERROR org.apache.coyote.http11.Http11Protocol  - Error initializing endpoint
+java.net.BindException: Address already in use:8080
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.initEndpoint(PoolTcpEndpoint.java:297)
+	at org.apache.coyote.http11.Http11Protocol.init(Http11Protocol.java:142)
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:928)
+	at org.apache.catalina.startup.Embedded.start(Embedded.java:794)
+	at de.fhg.fokus.hss.main.TomcatServer.startTomcat(TomcatServer.java:128)
+	at de.fhg.fokus.hss.main.HSSContainer.<init>(HSSContainer.java:74)
+	at de.fhg.fokus.hss.main.HSSContainer.main(HSSContainer.java:110)
+2013-03-19 07:12:33,532 [main] ERROR de.fhg.fokus.hss.main.HSSContainer  - Exception occured during starting Tomcat!
+Exiting from HSS...
+2013-03-19 07:14:06,609 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-19 07:14:07,313 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 127.0.0.1
+2013-03-19 07:14:08,123 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2013-03-19 07:14:08,704 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2013-03-19 07:14:10,687 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2013-03-19 07:14:10,742 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2013-03-19 07:14:10,747 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.imsclone01.ece.upatras.gr
+2013-03-19 07:14:10,747 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: imsclone01.ece.upatras.gr
+2013-03-19 07:14:10,748 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2013-03-19 07:14:10,748 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2013-03-19 07:14:10,748 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2013-03-19 07:14:10,748 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2013-03-19 07:14:10,758 [main] ERROR de.fhg.fokus.diameter.DiameterPeer.transport.Acceptor  - Acceptor: Error opening socket on port 3868
+2013-03-19 07:16:04,896 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-19 07:16:06,282 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 127.0.0.1
+2013-03-19 07:16:07,477 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2013-03-19 07:16:08,449 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2013-03-19 07:16:11,737 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2013-03-19 07:16:11,812 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2013-03-19 07:16:11,819 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.imsclone01.ece.upatras.gr
+2013-03-19 07:16:11,820 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: imsclone01.ece.upatras.gr
+2013-03-19 07:16:11,820 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2013-03-19 07:16:11,821 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2013-03-19 07:16:11,822 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2013-03-19 07:16:11,822 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2013-03-19 07:16:11,834 [main] ERROR de.fhg.fokus.diameter.DiameterPeer.transport.Acceptor  - Acceptor: Error opening socket on port 3868
+2013-03-19 07:17:26,921 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-19 07:17:27,591 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 127.0.0.1
+2013-03-19 07:17:28,219 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2013-03-19 07:17:28,782 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2013-03-19 07:17:30,508 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2013-03-19 07:17:30,552 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2013-03-19 07:17:30,555 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.imsclone01.ece.upatras.gr
+2013-03-19 07:17:30,556 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: imsclone01.ece.upatras.gr
+2013-03-19 07:17:30,556 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2013-03-19 07:17:30,556 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2013-03-19 07:17:30,557 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2013-03-19 07:17:30,557 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2013-03-19 07:17:30,565 [main] ERROR de.fhg.fokus.diameter.DiameterPeer.transport.Acceptor  - Acceptor: Error opening socket on port 3868
+2013-03-19 07:27:44,201 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-19 07:27:44,956 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 127.0.0.1
+2013-03-19 07:27:45,601 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2013-03-19 07:27:46,126 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2013-03-19 07:27:48,210 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2013-03-19 07:27:48,285 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2013-03-19 07:27:48,288 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.imsclone01.ece.upatras.gr
+2013-03-19 07:27:48,289 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: imsclone01.ece.upatras.gr
+2013-03-19 07:27:48,289 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2013-03-19 07:27:48,289 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2013-03-19 07:27:48,290 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2013-03-19 07:27:48,290 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2013-03-19 07:27:48,302 [main] ERROR de.fhg.fokus.diameter.DiameterPeer.transport.Acceptor  - Acceptor: Error opening socket on port 3868
+2013-03-19 07:52:19,951 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-19 07:52:20,774 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 127.0.0.1
+2013-03-19 07:52:21,451 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2013-03-19 07:52:21,992 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2013-03-19 07:52:23,796 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2013-03-19 07:52:23,869 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2013-03-19 07:52:23,872 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.imsclone01.ece.upatras.gr
+2013-03-19 07:52:23,873 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: imsclone01.ece.upatras.gr
+2013-03-19 07:52:23,873 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2013-03-19 07:52:23,873 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2013-03-19 07:52:23,874 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2013-03-19 07:52:23,874 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2013-03-19 07:52:23,883 [main] ERROR de.fhg.fokus.diameter.DiameterPeer.transport.Acceptor  - Acceptor: Error opening socket on port 3868
+2013-03-19 07:56:39,175 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-19 07:56:39,958 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 127.0.0.1
+2013-03-19 07:56:40,636 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2013-03-19 07:56:41,257 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2013-03-19 07:56:43,077 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2013-03-19 07:56:43,126 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2013-03-19 07:56:43,130 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.imsclone01.ece.upatras.gr
+2013-03-19 07:56:43,131 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: imsclone01.ece.upatras.gr
+2013-03-19 07:56:43,131 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2013-03-19 07:56:43,131 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2013-03-19 07:56:43,131 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2013-03-19 07:56:43,131 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2013-03-19 07:56:43,148 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2013-03-19 07:56:54,189 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2013-03-19 07:56:54,451 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2013-03-19 07:56:54,585 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2013-03-19 07:56:54,647 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2013-03-19 07:56:54,702 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2013-03-19 07:56:54,870 [Thread-13] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>alice@imsclone01.ece.upatras.gr</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:alice@imsclone01.ece.upatras.gr</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:192.168.11.135:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2013-03-19 07:56:54,883 [Thread-13] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:alice@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are Registered!
+2013-03-19 07:56:55,555 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2013-03-19 07:56:55,993 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2013-03-19 07:56:56,179 [Thread-15] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>null</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:bob@imsclone01.ece.upatras.gr</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:192.168.11.135:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2013-03-19 07:56:56,185 [Thread-15] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:bob@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are Un-Registered!
+2013-03-19 07:57:03,755 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2013-03-19 07:57:20,009 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2013-03-19 07:57:20,057 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2013-03-19 07:57:20,072 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2013-03-19 07:57:20,083 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2013-03-19 07:57:20,105 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2013-03-19 07:57:20,151 [Thread-10] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:alice@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are De-Registered!
+2013-03-19 07:57:20,161 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2013-03-19 07:57:20,199 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2013-03-19 07:57:20,207 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2013-03-19 07:57:20,224 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2013-03-19 07:57:20,304 [Thread-13] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>null</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:alice@imsclone01.ece.upatras.gr</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:192.168.11.135:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2013-03-19 07:57:20,309 [Thread-13] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:alice@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are Un-Registered!
+2013-03-19 07:57:20,346 [Thread-14] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>null</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:alice@imsclone01.ece.upatras.gr</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:192.168.11.135:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2013-03-19 07:57:20,355 [Thread-14] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:alice@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are Un-Registered!

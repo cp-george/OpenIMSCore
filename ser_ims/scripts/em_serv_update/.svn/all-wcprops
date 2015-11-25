@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/1014/ser_ims/trunk/scripts/em_serv_update
+END
+civic_belgium.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/repos/openimscore/!svn/ver/1014/ser_ims/trunk/scripts/em_serv_update/civic_belgium.sql
+END
+fokus_building_3_areas.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/repos/openimscore/!svn/ver/1014/ser_ims/trunk/scripts/em_serv_update/fokus_building_3_areas.sql
+END
+select_de_em_mapping.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/repos/openimscore/!svn/ver/1014/ser_ims/trunk/scripts/em_serv_update/select_de_em_mapping.sql
+END
+civic_spain.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/openimscore/!svn/ver/1014/ser_ims/trunk/scripts/em_serv_update/civic_spain.sql
+END
+update_lost_server_db.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/repos/openimscore/!svn/ver/1014/ser_ims/trunk/scripts/em_serv_update/update_lost_server_db.sh
+END
+update_ims_core.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/repos/openimscore/!svn/ver/1014/ser_ims/trunk/scripts/em_serv_update/update_ims_core.sh
+END
+civic_germany.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/repos/openimscore/!svn/ver/1014/ser_ims/trunk/scripts/em_serv_update/civic_germany.sql
+END
+update_hss_db.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/repos/openimscore/!svn/ver/1014/ser_ims/trunk/scripts/em_serv_update/update_hss_db.sh
+END
+berlin_mitte_geodetic.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/repos/openimscore/!svn/ver/1014/ser_ims/trunk/scripts/em_serv_update/berlin_mitte_geodetic.sql
+END

@@ -1,0 +1,26 @@
+2013-03-20 18:19:19,597 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-20 18:19:20,328 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 192.168.11.135
+2013-03-20 18:19:21,007 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2013-03-20 18:19:21,574 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2013-03-20 18:19:23,390 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2013-03-20 18:19:23,436 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2013-03-20 18:19:23,442 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.imsclone01.ece.upatras.gr
+2013-03-20 18:19:23,443 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: imsclone01.ece.upatras.gr
+2013-03-20 18:19:23,444 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2013-03-20 18:19:23,444 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2013-03-20 18:19:23,444 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2013-03-20 18:19:23,444 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2013-03-20 18:19:23,457 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2013-03-20 18:19:23,476 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-20 18:19:23,477 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-20 18:19:53,505 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-20 18:19:53,506 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-20 18:20:23,536 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-20 18:20:23,537 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-20 18:20:53,567 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-20 18:20:53,567 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-20 18:21:23,598 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-20 18:21:23,599 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-20 18:21:37,137 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!

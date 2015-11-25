@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/650/FHoSS/trunk/src/de/fhg/fokus/hss/db/model
+END
+CxEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/repos/openimscore/!svn/ver/389/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/CxEvents.java
+END
+IFC.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/IFC.java
+END
+DSAI_IFC.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/DSAI_IFC.java
+END
+Shared_IFC_Set.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/Shared_IFC_Set.java
+END
+SP_IFC.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/SP_IFC.java
+END
+SP_Shared_IFC_Set.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/SP_Shared_IFC_Set.java
+END
+CapabilitiesSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/CapabilitiesSet.java
+END
+SPT.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/SPT.java
+END
+RepositoryData.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/RepositoryData.java
+END
+Preferred_SCSCF_Set.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/Preferred_SCSCF_Set.java
+END
+IMPU.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/openimscore/!svn/ver/515/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/IMPU.java
+END
+DSAI_IMPU.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/DSAI_IMPU.java
+END
+IMPU_VisitedNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/IMPU_VisitedNetwork.java
+END
+AliasesRepositoryData.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/AliasesRepositoryData.java
+END
+Zh_USS.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/Zh_USS.java
+END
+IMSU.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/IMSU.java
+END
+ShSubscription.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/ShSubscription.java
+END
+DSAI.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/DSAI.java
+END
+Capability.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/Capability.java
+END
+ShNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/ShNotification.java
+END
+VisitedNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/VisitedNetwork.java
+END
+SP.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/SP.java
+END
+TP.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/TP.java
+END
+IMPI_IMPU.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/IMPI_IMPU.java
+END
+ApplicationServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/ApplicationServer.java
+END
+IMPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/openimscore/!svn/ver/650/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/IMPI.java
+END
+ChargingInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/db/model/ChargingInfo.java
+END

@@ -1,0 +1,46 @@
+10
+
+dir
+1182
+http://svn.berlios.de/svnroot/repos/openimscore/ser_ims/trunk/utils
+http://svn.berlios.de/svnroot/repos/openimscore
+
+
+
+2007-03-02T19:28:23.787118Z
+166
+vingarzan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a36f3ba7-d720-0410-92d7-d12b36172079
+
+fifo_relay
+dir
+
+route_graph
+dir
+
+gen_ha1
+dir
+
+sipgrep
+dir
+
+sercmd
+dir
+
+serunix
+dir
+

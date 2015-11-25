@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/repos/openimscore/!svn/ver/733/FHoSS/trunk/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/733/FHoSS/trunk/debian/control
+END
+openimscore-fhoss.templates
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/openimscore/!svn/ver/733/FHoSS/trunk/debian/openimscore-fhoss.templates
+END
+dirs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/733/FHoSS/trunk/debian/dirs
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/repos/openimscore/!svn/ver/733/FHoSS/trunk/debian/compat
+END
+openimscore-fhoss.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/733/FHoSS/trunk/debian/openimscore-fhoss.postinst
+END
+openimscore-fhoss.init
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/733/FHoSS/trunk/debian/openimscore-fhoss.init
+END
+openimscore-fhoss.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/733/FHoSS/trunk/debian/openimscore-fhoss.postrm
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/733/FHoSS/trunk/debian/changelog
+END
+openimscore-fhoss.prerm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/733/FHoSS/trunk/debian/openimscore-fhoss.prerm
+END
+openimscore-fhoss.config
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/733/FHoSS/trunk/debian/openimscore-fhoss.config
+END
+docs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/733/FHoSS/trunk/debian/docs
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/733/FHoSS/trunk/debian/copyright
+END
+openimscore-fhoss.install
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/openimscore/!svn/ver/733/FHoSS/trunk/debian/openimscore-fhoss.install
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/repos/openimscore/!svn/ver/733/FHoSS/trunk/debian/rules
+END

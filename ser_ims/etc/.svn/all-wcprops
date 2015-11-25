@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/etc
+END
+nathelper.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/nathelper.cfg
+END
+im_gw.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/im_gw.cfg
+END
+sr
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/etc/sr
+END
+reasons-en_US.ascii.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/reasons-en_US.ascii.txt
+END
+ser-basic.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/etc/ser-basic.cfg
+END
+ser.cfg.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/ser.cfg.m4
+END
+ser.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/etc/ser.cfg
+END
+imgwd
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/etc/imgwd
+END
+dbtext.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/dbtext.cfg
+END
+serresponse
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/etc/serresponse
+END
+rules.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/rules.m4
+END
+reasons-cs_CZ.iso-8859-2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/reasons-cs_CZ.iso-8859-2.txt
+END
+dictionary.ser
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/etc/dictionary.ser
+END
+pa.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/pa.cfg
+END

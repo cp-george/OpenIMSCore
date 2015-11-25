@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/repos/openimscore/!svn/ver/678/ser_ims/trunk/modules/rr
+END
+record.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/rr/record.c
+END
+avp_cookie.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/rr/avp_cookie.c
+END
+loose.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/678/ser_ims/trunk/modules/rr/loose.c
+END
+rr_mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/rr/rr_mod.c
+END
+record.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/rr/record.h
+END
+avp_cookie.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/rr/avp_cookie.h
+END
+loose.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/rr/loose.h
+END
+rr_mod.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/rr/rr_mod.h
+END
+fix_lumps.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/rr/fix_lumps.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/rr/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/rr/README
+END

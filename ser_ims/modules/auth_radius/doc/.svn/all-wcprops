@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/25/ser_ims/trunk/modules/auth_radius/doc
+END
+params.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/auth_radius/doc/params.xml
+END
+auth_radius.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/auth_radius/doc/auth_radius.xml
+END
+functions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/auth_radius/doc/functions.xml
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/auth_radius/doc/Makefile
+END

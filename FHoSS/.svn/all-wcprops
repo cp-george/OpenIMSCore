@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/repos/openimscore/!svn/ver/1100/FHoSS/trunk
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/repos/openimscore/!svn/ver/622/FHoSS/trunk/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/repos/openimscore/!svn/ver/622/FHoSS/trunk/.project
+END
+install.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/install.txt
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/563/FHoSS/trunk/build.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/repos/openimscore/!svn/ver/772/FHoSS/trunk/build.xml
+END

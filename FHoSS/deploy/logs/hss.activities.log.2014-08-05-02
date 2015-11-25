@@ -1,0 +1,8 @@
+2014-08-05 02:00:03,206 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-05 02:00:03,243 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-08-05 02:00:03,283 [Thread-12] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-08-05 02:00:03,506 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-08-05 02:00:03,691 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-08-05 02:00:03,743 [Thread-14] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:bob@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are De-Registered!
+2014-08-05 02:00:07,410 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!

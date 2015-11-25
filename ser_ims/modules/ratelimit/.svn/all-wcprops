@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/324/ser_ims/trunk/modules/ratelimit
+END
+ratelimit.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/237/ser_ims/trunk/modules/ratelimit/ratelimit.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/ratelimit/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/ratelimit/README
+END

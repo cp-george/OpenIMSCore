@@ -1,0 +1,84 @@
+2013-03-31 15:38:41,002 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-31 15:38:41,848 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 192.168.11.135
+2013-03-31 15:38:42,518 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2013-03-31 15:38:43,063 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2013-03-31 15:38:45,174 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2013-03-31 15:38:45,430 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2013-03-31 15:38:45,434 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.imsclone01.ece.upatras.gr
+2013-03-31 15:38:45,434 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: imsclone01.ece.upatras.gr
+2013-03-31 15:38:45,435 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2013-03-31 15:38:45,435 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2013-03-31 15:38:45,435 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2013-03-31 15:38:45,436 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2013-03-31 15:38:45,502 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2013-03-31 15:42:45,855 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:42:45,857 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:43:15,886 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:43:15,886 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:43:45,915 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:43:45,916 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:44:15,945 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:44:15,946 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:44:45,975 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:44:45,976 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:45:16,009 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:45:16,010 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:45:46,039 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:45:46,040 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:46:16,071 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:46:16,072 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:46:46,102 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:46:46,103 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:47:16,132 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:47:16,132 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:47:46,162 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:47:46,164 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:48:16,196 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:48:16,196 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:48:46,227 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:48:46,228 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:49:16,259 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:49:16,261 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:49:46,291 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:49:46,292 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:50:16,321 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:50:16,322 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:50:46,356 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:50:46,357 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:51:16,385 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:51:16,386 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:51:46,415 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:51:46,416 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:52:16,446 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:52:16,447 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:52:46,477 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:52:46,477 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:53:16,508 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:53:16,509 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:53:46,538 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:53:46,538 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:54:16,569 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:54:16,570 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:54:46,599 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:54:46,600 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:55:16,631 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:55:16,632 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:55:46,662 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:55:46,663 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:56:16,694 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:56:16,695 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:56:46,725 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:56:46,726 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:57:16,756 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:57:16,761 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:57:46,791 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:57:46,792 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:58:16,822 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:58:16,823 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:58:46,871 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:58:46,901 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:59:16,929 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:59:16,930 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 
+2013-03-31 15:59:46,960 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2013-03-31 15:59:46,961 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer scscf.imsclone01.ece.upatras.gr:3870 not responding to connection attempt 

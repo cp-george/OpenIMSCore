@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/repos/openimscore/!svn/ver/25/ser_ims/trunk/modules/avpops
+END
+avpops_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/avpops/avpops_impl.h
+END
+avpops_db.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/avpops/avpops_db.h
+END
+avpops_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/avpops/avpops_parse.c
+END
+avpops_parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/avpops/avpops_parse.h
+END
+avpops.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/avpops/avpops.c
+END
+avpops_impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/avpops/avpops_impl.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/avpops/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/avpops/README
+END
+avpops_db.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/avpops/avpops_db.c
+END

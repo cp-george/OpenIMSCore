@@ -1,0 +1,20 @@
+2014-07-16 13:00:10,908 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-16 13:00:10,921 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-16 13:00:10,926 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-07-16 13:00:10,958 [Thread-16] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:alice@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are De-Registered!
+2014-07-16 13:31:28,584 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-16 13:31:28,618 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-16 13:31:28,628 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-16 13:31:28,642 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-16 13:31:28,668 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-07-16 13:31:28,699 [Thread-10] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:bob@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are De-Registered!
+2014-07-16 13:31:33,188 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-07-16 13:31:33,189 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-07-16 13:31:33,190 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-07-16 13:31:33,191 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-07-16 13:31:33,193 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!

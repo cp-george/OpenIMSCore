@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/uri_radius
+END
+checks.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/uri_radius/checks.c
+END
+checks.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/uri_radius/checks.h
+END
+urirad_mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/uri_radius/urirad_mod.c
+END
+urirad_mod.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/uri_radius/urirad_mod.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/uri_radius/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/uri_radius/README
+END

@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 23
+*.d
+*.o
+*.so
+*.lst
+*.P
+
+END

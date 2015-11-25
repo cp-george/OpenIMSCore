@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/etc/obsoleted
+END
+mobile66.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/obsoleted/mobile66.cfg
+END
+register.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/obsoleted/register.cfg
+END
+secondary.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/obsoleted/secondary.cfg
+END
+sercheck
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/etc/obsoleted/sercheck
+END
+use_jabs.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/obsoleted/use_jabs.cfg
+END
+to_fox.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/obsoleted/to_fox.cfg
+END
+blb.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/obsoleted/blb.cfg
+END
+smsgw.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/obsoleted/smsgw.cfg
+END
+sip2jabd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/etc/obsoleted/sip2jabd
+END
+sms.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/obsoleted/sms.cfg
+END
+imgw.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/obsoleted/imgw.cfg
+END
+backup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/obsoleted/backup.cfg
+END
+bat.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/obsoleted/bat.cfg
+END
+test.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/obsoleted/test.cfg
+END
+tmtest.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/etc/obsoleted/tmtest.cfg
+END

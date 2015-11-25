@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/repos/openimscore/!svn/ver/649/FHoSS/trunk/lib
+END
+jdp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/649/FHoSS/trunk/lib/jdp.jar
+END
+ehcache-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/ehcache-1.1.jar
+END
+jta.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/jta.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/lib/dom4j-1.6.1.jar
+END
+log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/log4j.jar
+END
+cglib-2.1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/lib/cglib-2.1.3.jar
+END
+commons-lang.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/commons-lang.jar
+END
+servlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/servlet-api.jar
+END
+commons-fileupload.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/commons-fileupload.jar
+END
+commons-validator.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/commons-validator.jar
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/98/FHoSS/trunk/lib/log4j.properties
+END
+xalan-2.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/xalan-2.4.0.jar
+END
+junitee.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/junitee.jar
+END
+struts.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/struts.jar
+END
+c3p0-0.9.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/openimscore/!svn/ver/119/FHoSS/trunk/lib/c3p0-0.9.1.jar
+END
+asm-attrs.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/lib/asm-attrs.jar
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/xercesImpl.jar
+END
+catalina.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/catalina.jar
+END
+mx4j-3.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/mx4j-3.0.1.jar
+END
+commons-digester.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/commons-digester.jar
+END
+asm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/lib/asm.jar
+END
+hibernate3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/lib/hibernate3.jar
+END
+base64.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/base64.jar
+END
+commons-collections-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/commons-collections-3.1.jar
+END
+xerces-2.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/xerces-2.4.0.jar
+END
+antlr-2.7.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/lib/antlr-2.7.6.jar
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/junit.jar
+END
+xml-apis.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/xml-apis.jar
+END
+commons-logging-1.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/commons-logging-1.0.4.jar
+END
+catalina-optional.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/catalina-optional.jar
+END
+commons-beanutils.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/commons-beanutils.jar
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/commons-logging.jar
+END
+mysql-connector-java-3.1.12-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/mysql-connector-java-3.1.12-bin.jar
+END
+jsp-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/lib/jsp-api.jar
+END

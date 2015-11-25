@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/openimscore/!svn/ver/1011/ser_ims/trunk/test/emerg_serv
+END
+em_reg_bob.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/1011/ser_ims/trunk/test/emerg_serv/em_reg_bob.xml
+END
+non_em_reg_psap_nj.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/openimscore/!svn/ver/1011/ser_ims/trunk/test/emerg_serv/non_em_reg_psap_nj.xml
+END
+notify_terminated.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/openimscore/!svn/ver/1011/ser_ims/trunk/test/emerg_serv/notify_terminated.xml
+END
+uas_a2psap_nj.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/openimscore/!svn/ver/1011/ser_ims/trunk/test/emerg_serv/uas_a2psap_nj.xml
+END
+non_em_uac_b2a.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/openimscore/!svn/ver/1011/ser_ims/trunk/test/emerg_serv/non_em_uac_b2a.xml
+END
+non_em_reg_bob.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/openimscore/!svn/ver/1011/ser_ims/trunk/test/emerg_serv/non_em_reg_bob.xml
+END
+em_reg_alice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/1011/ser_ims/trunk/test/emerg_serv/em_reg_alice.xml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/1011/ser_ims/trunk/test/emerg_serv/README
+END
+notify_active.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/openimscore/!svn/ver/1011/ser_ims/trunk/test/emerg_serv/notify_active.xml
+END
+location.csv
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/1011/ser_ims/trunk/test/emerg_serv/location.csv
+END
+non_em_reg_alice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/openimscore/!svn/ver/1011/ser_ims/trunk/test/emerg_serv/non_em_reg_alice.xml
+END
+em_uac_anonym.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/openimscore/!svn/ver/1011/ser_ims/trunk/test/emerg_serv/em_uac_anonym.xml
+END
+uas_a2b.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/1011/ser_ims/trunk/test/emerg_serv/uas_a2b.xml
+END
+uas_b2a.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/1011/ser_ims/trunk/test/emerg_serv/uas_b2a.xml
+END
+em_uac_b2a.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/1011/ser_ims/trunk/test/emerg_serv/em_uac_b2a.xml
+END
+em_uac_anonym_geodetic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/repos/openimscore/!svn/ver/1011/ser_ims/trunk/test/emerg_serv/em_uac_anonym_geodetic.xml
+END
+em_uac_a2b.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/1011/ser_ims/trunk/test/emerg_serv/em_uac_a2b.xml
+END
+em_uac_alice_no_loc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/repos/openimscore/!svn/ver/1011/ser_ims/trunk/test/emerg_serv/em_uac_alice_no_loc.xml
+END

@@ -1,0 +1,33 @@
+2013-03-14 07:04:16,801 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2013-03-14 07:04:16,849 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2013-03-14 07:04:16,857 [Thread-12] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2013-03-14 07:04:16,865 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2013-03-14 07:04:16,880 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2013-03-14 07:04:16,888 [Thread-14] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2013-03-14 07:05:01,572 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2013-03-14 07:05:01,645 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2013-03-14 07:05:01,656 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2013-03-14 07:05:01,661 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2013-03-14 07:05:01,676 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2013-03-14 07:05:01,719 [Thread-18] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>alice@imsclone01.ece.upatras.gr</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:alice@imsclone01.ece.upatras.gr</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:192.168.11.135:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria></ServiceProfile></IMSSubscription>
+2013-03-14 07:05:01,772 [Thread-18] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:alice@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are Registered!
+2013-03-14 07:05:08,723 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2013-03-14 07:06:25,778 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2013-03-14 07:06:25,782 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2013-03-14 07:06:25,783 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2013-03-14 07:08:21,203 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2013-03-14 07:08:21,227 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2013-03-14 07:08:21,233 [Thread-14] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2013-03-14 07:08:21,242 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2013-03-14 07:08:21,264 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2013-03-14 07:08:21,291 [Thread-16] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:bob@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are De-Registered!
+2013-03-14 07:08:22,818 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2013-03-14 07:08:22,837 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2013-03-14 07:08:22,842 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2013-03-14 07:08:22,847 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2013-03-14 07:08:22,859 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2013-03-14 07:08:22,874 [Thread-11] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:alice@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are De-Registered!

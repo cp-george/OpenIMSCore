@@ -1,0 +1,247 @@
+10
+
+dir
+1182
+http://svn.berlios.de/svnroot/repos/openimscore/ser_ims/trunk/modules
+http://svn.berlios.de/svnroot/repos/openimscore
+
+
+
+2012-10-10T12:47:51.512558Z
+1182
+vingarzan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+a36f3ba7-d720-0410-92d7-d12b36172079
+
+ctl
+dir
+
+msilo
+dir
+
+lrf
+dir
+
+jabber
+dir
+
+maxfwd
+dir
+
+acc_syslog
+dir
+
+ratelimit
+dir
+
+xcap
+dir
+
+diversion
+dir
+
+flatstore
+dir
+
+xmlrpc
+dir
+
+uri_radius
+dir
+
+uac
+dir
+
+xlog
+dir
+
+mgcf
+dir
+
+lcr
+dir
+
+rr
+dir
+
+exec
+dir
+
+dispatcher
+dir
+
+eval
+dir
+
+options
+dir
+
+avp_radius
+dir
+
+acc_radius
+dir
+
+dialog
+dir
+
+sms
+dir
+
+registrar
+dir
+
+unixsock
+dir
+
+enum
+dir
+
+uri_db
+dir
+
+domain
+dir
+
+permissions
+dir
+
+cdp_avp
+dir
+
+sl
+dir
+
+mediaproxy
+dir
+
+nathelper
+dir
+
+ecscf
+dir
+
+avp
+dir
+
+pdt
+dir
+
+icscf
+dir
+
+pike
+dir
+
+dbtext
+dir
+
+avp_db
+dir
+
+acc_db
+dir
+
+pcscf
+dir
+
+uri
+dir
+
+rls
+dir
+
+pa
+dir
+
+scscf
+dir
+
+auth
+dir
+
+tls
+dir
+
+Client_Rf
+dir
+
+postgres
+dir
+
+db_ops
+dir
+
+usrloc
+dir
+
+auth_radius
+dir
+
+isc
+dir
+
+tm
+dir
+
+timer
+dir
+
+fifo
+dir
+
+presence_b2b
+dir
+
+speeddial
+dir
+
+print
+dir
+
+dbg
+dir
+
+cpl-c
+dir
+
+osp
+dir
+
+gflags
+dir
+
+oracle
+dir
+
+mysql
+dir
+
+textops
+dir
+
+cdp
+dir
+
+auth_db
+dir
+
+sanity
+dir
+
+avpops
+dir
+

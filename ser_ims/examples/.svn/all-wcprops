@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples
+END
+msilo.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/msilo.cfg
+END
+vm_proxy.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/vm_proxy.cfg
+END
+pstn.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/pstn.cfg
+END
+flag_reply.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/flag_reply.cfg
+END
+exec.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/exec.cfg
+END
+ctd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/ctd.sh
+END
+logging.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/logging.cfg
+END
+acc.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/acc.cfg
+END
+exec_s2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/exec_s2.cfg
+END
+uas.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/uas.cfg
+END
+exec_s3.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/exec_s3.cfg
+END
+exec_s4.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/exec_s4.cfg
+END
+exec_s5.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/exec_s5.cfg
+END
+welcome.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/welcome.cfg
+END
+exec_s5b.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/exec_s5b.cfg
+END
+onr.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/onr.cfg
+END
+geo_split.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/geo_split.sh
+END
+redirect.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/redirect.cfg
+END
+exec_dist.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/exec_dist.cfg
+END
+ccdiversion.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/ccdiversion.cfg
+END
+replicate.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/replicate.cfg
+END
+voicemail.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/voicemail.cfg
+END
+serial_183.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/serial_183.cfg
+END
+snmp.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/examples/snmp.cfg
+END

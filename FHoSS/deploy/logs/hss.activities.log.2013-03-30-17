@@ -1,0 +1,97 @@
+2013-03-30 17:40:37,792 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-30 17:40:49,974 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 127.0.0.1
+2013-03-30 17:40:58,048 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2013-03-30 17:41:01,522 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2013-03-30 17:41:20,553 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2013-03-30 17:41:20,700 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2013-03-30 17:41:20,726 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.imsclone01.ece.upatras.gr
+2013-03-30 17:41:20,726 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: imsclone01.ece.upatras.gr
+2013-03-30 17:41:20,726 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2013-03-30 17:41:20,727 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2013-03-30 17:41:20,727 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2013-03-30 17:41:20,727 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2013-03-30 17:41:20,764 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2013-03-30 17:42:33,182 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-30 17:42:33,872 [main] ERROR org.apache.coyote.http11.Http11Protocol  - Error initializing endpoint
+java.net.BindException: Address already in use:8080
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.initEndpoint(PoolTcpEndpoint.java:297)
+	at org.apache.coyote.http11.Http11Protocol.init(Http11Protocol.java:142)
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:928)
+	at org.apache.catalina.startup.Embedded.start(Embedded.java:794)
+	at de.fhg.fokus.hss.main.TomcatServer.startTomcat(TomcatServer.java:128)
+	at de.fhg.fokus.hss.main.HSSContainer.<init>(HSSContainer.java:74)
+	at de.fhg.fokus.hss.main.HSSContainer.main(HSSContainer.java:110)
+2013-03-30 17:42:33,875 [main] ERROR de.fhg.fokus.hss.main.HSSContainer  - Exception occured during starting Tomcat!
+Exiting from HSS...
+2013-03-30 17:45:07,818 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-30 17:45:08,455 [main] ERROR org.apache.coyote.http11.Http11Protocol  - Error initializing endpoint
+java.net.BindException: Address already in use:8080
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.initEndpoint(PoolTcpEndpoint.java:297)
+	at org.apache.coyote.http11.Http11Protocol.init(Http11Protocol.java:142)
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:928)
+	at org.apache.catalina.startup.Embedded.start(Embedded.java:794)
+	at de.fhg.fokus.hss.main.TomcatServer.startTomcat(TomcatServer.java:128)
+	at de.fhg.fokus.hss.main.HSSContainer.<init>(HSSContainer.java:74)
+	at de.fhg.fokus.hss.main.HSSContainer.main(HSSContainer.java:110)
+2013-03-30 17:45:08,457 [main] ERROR de.fhg.fokus.hss.main.HSSContainer  - Exception occured during starting Tomcat!
+Exiting from HSS...
+2013-03-30 17:45:41,518 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-30 17:45:42,150 [main] ERROR org.apache.coyote.http11.Http11Protocol  - Error initializing endpoint
+java.net.BindException: Address already in use:8080
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.initEndpoint(PoolTcpEndpoint.java:297)
+	at org.apache.coyote.http11.Http11Protocol.init(Http11Protocol.java:142)
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:928)
+	at org.apache.catalina.startup.Embedded.start(Embedded.java:794)
+	at de.fhg.fokus.hss.main.TomcatServer.startTomcat(TomcatServer.java:128)
+	at de.fhg.fokus.hss.main.HSSContainer.<init>(HSSContainer.java:74)
+	at de.fhg.fokus.hss.main.HSSContainer.main(HSSContainer.java:110)
+2013-03-30 17:45:42,153 [main] ERROR de.fhg.fokus.hss.main.HSSContainer  - Exception occured during starting Tomcat!
+Exiting from HSS...
+2013-03-30 17:47:09,701 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-30 17:47:10,408 [main] ERROR org.apache.coyote.http11.Http11Protocol  - Error initializing endpoint
+java.net.BindException: Address already in use:8080
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.initEndpoint(PoolTcpEndpoint.java:297)
+	at org.apache.coyote.http11.Http11Protocol.init(Http11Protocol.java:142)
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:928)
+	at org.apache.catalina.startup.Embedded.start(Embedded.java:794)
+	at de.fhg.fokus.hss.main.TomcatServer.startTomcat(TomcatServer.java:128)
+	at de.fhg.fokus.hss.main.HSSContainer.<init>(HSSContainer.java:74)
+	at de.fhg.fokus.hss.main.HSSContainer.main(HSSContainer.java:110)
+2013-03-30 17:47:10,411 [main] ERROR de.fhg.fokus.hss.main.HSSContainer  - Exception occured during starting Tomcat!
+Exiting from HSS...
+2013-03-30 17:49:23,213 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-30 17:49:23,872 [main] ERROR org.apache.coyote.http11.Http11Protocol  - Error initializing endpoint
+java.net.BindException: Address already in use:8080
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.initEndpoint(PoolTcpEndpoint.java:297)
+	at org.apache.coyote.http11.Http11Protocol.init(Http11Protocol.java:142)
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:928)
+	at org.apache.catalina.startup.Embedded.start(Embedded.java:794)
+	at de.fhg.fokus.hss.main.TomcatServer.startTomcat(TomcatServer.java:128)
+	at de.fhg.fokus.hss.main.HSSContainer.<init>(HSSContainer.java:74)
+	at de.fhg.fokus.hss.main.HSSContainer.main(HSSContainer.java:110)
+2013-03-30 17:49:23,874 [main] ERROR de.fhg.fokus.hss.main.HSSContainer  - Exception occured during starting Tomcat!
+Exiting from HSS...
+2013-03-30 17:49:43,823 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-30 17:49:44,526 [main] ERROR org.apache.coyote.http11.Http11Protocol  - Error initializing endpoint
+java.net.BindException: Address already in use:8080
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.initEndpoint(PoolTcpEndpoint.java:297)
+	at org.apache.coyote.http11.Http11Protocol.init(Http11Protocol.java:142)
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:928)
+	at org.apache.catalina.startup.Embedded.start(Embedded.java:794)
+	at de.fhg.fokus.hss.main.TomcatServer.startTomcat(TomcatServer.java:128)
+	at de.fhg.fokus.hss.main.HSSContainer.<init>(HSSContainer.java:74)
+	at de.fhg.fokus.hss.main.HSSContainer.main(HSSContainer.java:110)
+2013-03-30 17:49:44,529 [main] ERROR de.fhg.fokus.hss.main.HSSContainer  - Exception occured during starting Tomcat!
+Exiting from HSS...
+2013-03-30 17:54:20,748 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-30 17:54:25,753 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 127.0.0.1
+2013-03-30 17:54:29,334 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2013-03-30 17:54:30,125 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2013-03-30 17:54:33,027 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2013-03-30 17:54:33,097 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2013-03-30 17:54:33,123 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.imsclone01.ece.upatras.gr
+2013-03-30 17:54:33,131 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: imsclone01.ece.upatras.gr
+2013-03-30 17:54:33,135 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2013-03-30 17:54:33,138 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2013-03-30 17:54:33,145 [m

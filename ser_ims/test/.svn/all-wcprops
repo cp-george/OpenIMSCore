@@ -1,0 +1,659 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/repos/openimscore/!svn/ver/1011/ser_ims/trunk/test
+END
+resolver_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/resolver_test.c
+END
+stress.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/stress.cfg
+END
+tp.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/tp.cfg
+END
+ms-invite-00.sip
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/ms-invite-00.sip
+END
+gplall.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/gplall.sh
+END
+test-throughput.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/test-throughput.cfg
+END
+re_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/re_test.c
+END
+nmr.sip
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/nmr.sip
+END
+tx.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/tx.cfg
+END
+udp_flood.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/udp_flood.c
+END
+xx.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/xx.cfg
+END
+xy.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/xy.cfg
+END
+short_reply.sip
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/short_reply.sip
+END
+invite4-cseq.sip
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/invite4-cseq.sip
+END
+th-uri-2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/th-uri-2.cfg
+END
+udp.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/udp.c
+END
+short_nonce.sip
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/short_nonce.sip
+END
+th-uri-8.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/th-uri-8.cfg
+END
+register.sip
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/register.sip
+END
+message.sip
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/message.sip
+END
+dns.sip
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/dns.sip
+END
+no_eom_reply.sip
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/no_eom_reply.sip
+END
+route.sip
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/route.sip
+END
+gethostbyname.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/gethostbyname.c
+END
+tcp_tunnel1.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/tcp_tunnel1.cfg
+END
+tcp_tunnel2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/tcp_tunnel2.cfg
+END
+sock_conn.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/sock_conn.c
+END
+nc.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/nc.cfg
+END
+test1.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/test1.cfg
+END
+udp_flood_disc.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/udp_flood_disc.c
+END
+bad_uri.sip
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/bad_uri.sip
+END
+test2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/test2.cfg
+END
+shoot2.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/shoot2.c
+END
+bad_via1.sip
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/bad_via1.sip
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/test.c
+END
+test3.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/test3.cfg
+END
+mips_lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/mips_lock.c
+END
+bad_via2.sip
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/bad_via2.sip
+END
+th-uri-fast.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/th-uri-fast.cfg
+END
+bad_via3.sip
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/bad_via3.sip
+END
+gcc_versions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/gcc_versions.txt
+END
+req1.sip
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/req1.sip
+END
+invite5-callid.sip
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/invite5-callid.sip
+END
+req2.sip
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/req2.sip
+END
+gen.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/gen.cfg
+END
+gplize.awk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/gplize.awk
+END
+bad_eof.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/bad_eof.cfg
+END
+resolver.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/resolver.txt
+END
+struas.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/struas.cfg
+END
+register02.sip
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/register02.sip
+END
+message02.sip
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/message02.sip
+END
+inv_srv.sip
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/inv_srv.sip
+END
+req-tm1.sip
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/req-tm1.sip
+END
+register03.sip
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/register03.sip
+END
+message03.sip
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/message03.sip
+END
+register04.sip
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/register04.sip
+END
+tcp.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/tcp.cfg
+END
+ser.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/ser.cfg
+END
+long.sip
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/long.sip
+END
+t_debug2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/t_debug2.cfg
+END
+t_debug3.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/t_debug3.cfg
+END
+via_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/via_parse.c
+END
+atomic_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/atomic_test.c
+END
+invite6-badbranch-via.sip
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/invite6-badbranch-via.sip
+END
+p_uri.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/p_uri.c
+END
+rport.sip
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/rport.sip
+END
+acc-test.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/acc-test.cfg
+END
+flood.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/flood.cfg
+END
+sg.sip
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/sg.sip
+END
+stateless.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/stateless.cfg
+END
+sf.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/sf.cfg
+END
+th-uri.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/th-uri.cfg
+END
+use_jab.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/use_jab.cfg
+END
+invite1.sip
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/invite1.sip
+END
+bye00.sip
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/bye00.sip
+END
+mobile61.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/mobile61.cfg
+END
+echo.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/echo.cfg
+END
+repl1.sip
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/repl1.sip
+END
+ms-invite-00-rpl.sip
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/ms-invite-00-rpl.sip
+END
+shoot.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/shoot.c
+END
+ms-invite-01-rpl.sip
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/ms-invite-01-rpl.sip
+END
+module_compile_status.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/module_compile_status.txt
+END
+ifls.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/ifls.c
+END
+req-test1.sip
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/req-test1.sip
+END
+sock_disc.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/sock_disc.c
+END
+gethostbyaddr.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/gethostbyaddr.c
+END
+file_copyright.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/file_copyright.txt
+END
+invite00.sip
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/invite00.sip
+END
+auto.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/auto.c
+END
+invite01.sip
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/invite01.sip
+END
+dns_query.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/dns_query.c
+END
+invite02.sip
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/invite02.sip
+END
+invite03.sip
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/invite03.sip
+END
+pingtel.sip
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/pingtel.sip
+END
+invite04.sip
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/invite04.sip
+END
+invite05.sip
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/invite05.sip
+END
+bt.gdb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/bt.gdb
+END
+bc2.sip
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/bc2.sip
+END
+invite3-callid.sip
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/invite3-callid.sip
+END
+bye_chris.sip
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/bye_chris.sip
+END
+td.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/td.cfg
+END
+transaction.fifo
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/transaction.fifo
+END
+lock_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/lock_test.c
+END
+centauri.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/centauri.cfg
+END
+msbye.sip
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/msbye.sip
+END
+udp_test_proxy.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/test/udp_test_proxy.c
+END
+perf.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/perf.txt
+END
+test.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/test.cfg
+END
+atomic_test2.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/test/atomic_test2.c
+END

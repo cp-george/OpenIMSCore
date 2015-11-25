@@ -1,0 +1,427 @@
+2014-07-10 22:00:34,907 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:00:35,337 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:00:35,714 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:00:35,825 [Thread-12] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:00:36,079 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:00:36,170 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:00:41,793 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:00:41,880 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:00:41,891 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:00:41,928 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:00:41,960 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:00:48,730 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:00:48,865 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:00:48,884 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:00:48,923 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:00:48,966 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:03:29,783 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:03:30,004 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:03:30,080 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:03:30,117 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:03:30,157 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:03:39,722 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:03:39,818 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:03:39,834 [Thread-17] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:03:39,842 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:03:39,878 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:03:51,483 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:03:51,576 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:03:51,590 [Thread-12] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:03:51,606 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:03:51,643 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:04:30,031 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:04:30,132 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:04:30,145 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:04:30,159 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:04:30,246 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:04:37,913 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:04:37,973 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:04:37,994 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:04:38,017 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:04:38,120 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:04:48,933 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:04:48,963 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:04:48,983 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:04:48,991 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:04:49,052 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:05:00,323 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:05:00,444 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:05:00,458 [Thread-17] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:05:00,471 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:05:00,540 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:01,822 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:01,861 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:06:01,876 [Thread-12] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:06:01,887 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:01,936 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:06:01,950 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:06:01,978 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:02,031 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:06:02,039 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:06:21,923 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:22,029 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:06:22,067 [Thread-17] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:06:22,072 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:22,129 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:22,154 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:06:22,168 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:06:22,174 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:25,556 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:25,712 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:06:25,738 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:06:25,754 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:25,801 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:25,828 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:06:25,841 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:06:25,851 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:29,713 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:29,862 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:06:29,909 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:06:29,916 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:29,965 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:29,980 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:06:29,991 [Thread-13] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:06:29,998 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:33,213 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:33,350 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:06:33,376 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:06:33,384 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:33,421 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:33,552 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:06:33,563 [Thread-19] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:06:33,602 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:35,728 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:35,810 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:06:35,840 [Thread-12] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:06:35,847 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:35,910 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:35,951 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:06:35,983 [Thread-14] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:06:35,995 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:39,107 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:39,197 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:06:39,219 [Thread-17] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:06:39,226 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:39,252 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:39,279 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:06:39,308 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:06:39,317 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:42,717 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:42,769 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:06:42,782 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:06:42,789 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:42,893 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:42,945 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:06:42,960 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:06:42,970 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:52,778 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:52,806 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:06:52,818 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:06:52,826 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:52,885 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:52,898 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:06:52,906 [Thread-13] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:06:52,932 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:55,574 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:55,856 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:06:55,871 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:06:55,881 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:55,930 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:55,972 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:06:56,007 [Thread-19] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:06:56,022 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:59,556 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:59,632 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:06:59,645 [Thread-12] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:06:59,655 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:59,704 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:06:59,728 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:06:59,740 [Thread-14] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:06:59,747 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:07:08,624 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:07:08,668 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:07:08,717 [Thread-17] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:07:08,721 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:07:08,748 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:07:08,759 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:07:08,780 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:07:08,804 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:07:35,636 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:07:35,659 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:07:35,683 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:07:35,692 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:07:35,742 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:07:35,764 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:07:35,770 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:07:35,783 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:08:16,885 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:08:16,949 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:08:16,975 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:08:16,983 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:08:17,002 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:08:17,040 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:08:17,046 [Thread-13] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:08:17,049 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:08:20,564 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:08:20,586 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:08:20,592 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:08:20,600 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:08:20,666 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:08:20,783 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:08:20,790 [Thread-19] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:08:20,804 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:08:23,441 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:08:23,461 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:08:23,483 [Thread-12] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:08:23,573 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:08:23,607 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-07-10 22:08:23,741 [Thread-15] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+
+The UserData XML document which is sent to the S-CSCF:
+<?xml version="1.0" encoding="UTF-8"?><IMSSubscription><PrivateID>bob@imsclone01.ece.upatras.gr</PrivateID><ServiceProfile><PublicIdentity><Identity>sip:bob@imsclone01.ece.upatras.gr</Identity><Extension><IdentityType>0</IdentityType></Extension></PublicIdentity><InitialFilterCriteria><Priority>0</Priority><TriggerPoint><ConditionTypeCNF>0</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><SessionCase>0</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><Method>PUBLISH</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SessionCase>3</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>2</Group><SessionCase>1</SessionCase><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><Method>SUBSCRIBE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SIPHeader><Header>Event</Header><Content>.*presence.*</Content></SIPHeader><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>3</Group><SessionCase>2</SessionCase><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:192.168.11.135:5065</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria><InitialFilterCriteria><Priority>1</Priority><TriggerPoint><ConditionTypeCNF>1</ConditionTypeCNF><SPT><ConditionNegated>0</ConditionNegated><Group>0</Group><Method>INVITE</Method><Extension></Extension></SPT><SPT><ConditionNegated>0</ConditionNegated><Group>1</Group><SIPHeader><Header>To</Header><Content>.*iptv.imsclone01.ece.upatras.gr.*</Content></SIPHeader><Extension></Extension></SPT></TriggerPoint><ApplicationServer><ServerName>sip:192.168.11.135:8010</ServerName><DefaultHandling>0</DefaultHandling></ApplicationServer></InitialFilterCriteria><Extension><Extension><SharedIFCSetID>1</SharedIFCSetID></Extension></Extension></ServiceProfile></IMSSubscription>
+2014-07-10 22:08:23,783 [Thread-15] INFO  de.fhg.fokus.hss.cx.op.SAR  - 
+User with Public Identity: sip:bob@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are Registered!
+2014-07-10 22:08:29,586 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:08:29,685 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:08:29,690 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:08:29,696 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:08:29,716 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:08:29,757 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:08:29,765 [Thread-19] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:08:29,774 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:08:30,541 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-10 22:08:56,672 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:08:56,796 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:08:56,816 [Thread-13] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:08:56,826 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:08:56,859 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:08:56,876 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:08:56,893 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:08:56,931 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:09:25,770 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:09:25,791 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:09:25,813 [Thread-19] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:09:25,851 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:09:25,899 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:09:25,913 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:09:25,919 [Thread-12] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:09:25,928 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:09:29,550 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:09:29,581 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:09:29,596 [Thread-14] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:09:29,619 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:09:29,672 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:09:29,697 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:09:29,745 [Thread-17] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:09:29,750 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:09:38,594 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:09:38,605 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:09:38,610 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:09:38,617 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:09:38,654 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:09:38,681 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:09:38,693 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:09:38,697 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:09:51,468 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:09:51,486 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:09:51,500 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:09:51,512 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:09:54,550 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:09:54,559 [Thread-17] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:09:54,582 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:09:54,596 [Thread-19] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:09:54,767 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:09:54,786 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:09:54,827 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:09:54,842 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:09:58,554 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:09:58,563 [Thread-12] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:09:58,574 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:09:58,581 [Thread-13] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:10:07,053 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:10:07,061 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:10:07,087 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:10:07,096 [Thread-14] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:10:07,538 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-10 22:10:20,415 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:10:20,424 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:10:20,428 [Thread-17] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:10:20,439 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:10:20,448 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-07-10 22:10:20,567 [Thread-11] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:bob@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are De-Registered!
+2014-07-10 22:10:25,930 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:10:25,942 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:10:25,975 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:10:26,004 [Thread-12] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:10:57,676 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:10:57,691 [Thread-13] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:10:57,707 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:10:57,753 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:11:04,709 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:04,731 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:11:04,743 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:11:04,748 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:04,779 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:04,819 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:11:04,827 [Thread-19] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:11:04,831 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:15,503 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:15,514 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:11:15,522 [Thread-12] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:11:15,526 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:15,562 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:15,587 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:11:15,603 [Thread-14] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:11:15,609 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:18,548 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:18,569 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:11:18,595 [Thread-17] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:11:18,615 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:18,661 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:18,684 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:11:18,703 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:11:18,713 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:20,913 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:20,931 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:11:20,941 [Thread-13] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:11:20,997 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:21,035 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:21,050 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:11:21,108 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:11:21,111 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:24,551 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:24,578 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:11:24,602 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:11:24,624 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:24,677 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:24,705 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:11:24,717 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:11:24,728 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:28,303 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:28,336 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:11:28,343 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:11:28,346 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:28,359 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:28,367 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:11:28,396 [Thread-19] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:11:28,402 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:31,544 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:31,559 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:11:31,570 [Thread-12] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:11:31,582 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:31,630 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:31,663 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:11:31,694 [Thread-14] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:11:31,701 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:40,621 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:40,643 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:11:40,658 [Thread-17] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:11:40,667 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:40,724 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:40,734 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:11:40,740 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:11:40,746 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:41,522 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:41,578 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:11:41,603 [Thread-13] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:11:41,660 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:41,683 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:53,563 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:53,611 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:11:53,615 [Thread-17] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:11:53,656 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:11:53,689 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:12:51,007 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:12:51,031 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:12:51,044 [Thread-12] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:12:51,087 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:12:51,129 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:12:58,565 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:12:58,574 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:12:58,582 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:12:58,586 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:12:58,605 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:13:12,264 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:13:12,283 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:13:12,299 [Thread-19] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:13:12,308 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:13:12,362 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:13:37,701 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:13:37,719 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:13:37,727 [Thread-13] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:13:37,733 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:13:37,775 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:14:04,879 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:14:04,895 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:14:04,905 [Thread-17] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:14:04,910 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:14:04,931 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:14:17,363 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:14:17,386 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:14:17,397 [Thread-12] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:14:17,411 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:14:17,431 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:14:23,344 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:14:23,363 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:14:23,383 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:14:23,387 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:14:23,503 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:15:09,557 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:15:09,567 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:15:09,576 [Thread-19] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:15:09,580 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:15:09,628 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:17:56,335 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:17:56,374 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:17:56,384 [Thread-13] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:17:56,399 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:17:56,441 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:18:04,266 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:18:04,280 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:18:04,290 [Thread-17] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:18:04,297 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:18:04,318 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:18:18,526 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:18:18,550 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:18:18,558 [Thread-12] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:18:18,564 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:18:18,625 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:18:26,581 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:18:26,595 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:18:26,604 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:18:26,620 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:18:26,647 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:18:42,452 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:18:42,472 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:18:42,477 [Thread-19] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:18:42,510 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:18:42,536 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:18:54,914 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:18:54,932 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:18:54,942 [Thread-13] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:18:54,952 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:18:54,970 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:19:08,286 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:19:08,352 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:19:08,362 [Thread-17] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:19:08,395 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:19:08,424 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:19:15,514 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:19:15,529 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:19:15,538 [Thread-12] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:19:15,545 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:19:15,581 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:19:22,966 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:19:22,989 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:19:23,027 [Thread-16] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:19:23,036 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:19:23,086 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:19:50,216 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:19:50,232 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-10 22:19:50,243 [Thread-19] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-10 22:19:50,249 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:19:50,266 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:21:15,518 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:21:15,687 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:21:21,146 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-10 22:21:21,211 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!

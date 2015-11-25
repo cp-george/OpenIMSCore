@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/1177/ser_ims/trunk/modules/Client_Rf
+END
+sip.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/1069/ser_ims/trunk/modules/Client_Rf/sip.h
+END
+Rf_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/1177/ser_ims/trunk/modules/Client_Rf/Rf_data.c
+END
+parse_content.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/openimscore/!svn/ver/1167/ser_ims/trunk/modules/Client_Rf/parse_content.c
+END
+client_rf_load.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/openimscore/!svn/ver/1171/ser_ims/trunk/modules/Client_Rf/client_rf_load.c
+END
+Rf_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/1177/ser_ims/trunk/modules/Client_Rf/Rf_data.h
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/1167/ser_ims/trunk/modules/Client_Rf/config.c
+END
+mod_wharf.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/openimscore/!svn/ver/1172/ser_ims/trunk/modules/Client_Rf/mod_wharf.c
+END
+sip_body.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/1147/ser_ims/trunk/modules/Client_Rf/sip_body.c
+END
+parse_content.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/openimscore/!svn/ver/1167/ser_ims/trunk/modules/Client_Rf/parse_content.h
+END
+client_rf_load.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/openimscore/!svn/ver/1171/ser_ims/trunk/modules/Client_Rf/client_rf_load.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/1167/ser_ims/trunk/modules/Client_Rf/config.h
+END
+mod_wharf.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/openimscore/!svn/ver/1029/ser_ims/trunk/modules/Client_Rf/mod_wharf.h
+END
+sip_body.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/1147/ser_ims/trunk/modules/Client_Rf/sip_body.h
+END
+str_int_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/1167/ser_ims/trunk/modules/Client_Rf/str_int_list.c
+END
+ims_rf.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/1177/ser_ims/trunk/modules/Client_Rf/ims_rf.c
+END
+diameter_rf.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/openimscore/!svn/ver/1167/ser_ims/trunk/modules/Client_Rf/diameter_rf.c
+END
+str_int_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/1167/ser_ims/trunk/modules/Client_Rf/str_int_list.h
+END
+ims_rf.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/1133/ser_ims/trunk/modules/Client_Rf/ims_rf.h
+END
+mod_export.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/1172/ser_ims/trunk/modules/Client_Rf/mod_export.h
+END
+diameter_rf.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/openimscore/!svn/ver/1158/ser_ims/trunk/modules/Client_Rf/diameter_rf.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/1074/ser_ims/trunk/modules/Client_Rf/Makefile
+END
+charging_id_generator.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/repos/openimscore/!svn/ver/1167/ser_ims/trunk/modules/Client_Rf/charging_id_generator.c
+END
+acr.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/1169/ser_ims/trunk/modules/Client_Rf/acr.c
+END
+charging_id_generator.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/repos/openimscore/!svn/ver/1167/ser_ims/trunk/modules/Client_Rf/charging_id_generator.h
+END
+acr.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/1040/ser_ims/trunk/modules/Client_Rf/acr.h
+END
+multipart_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/1073/ser_ims/trunk/modules/Client_Rf/multipart_parse.c
+END
+sdp_helpr_funcs.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/1167/ser_ims/trunk/modules/Client_Rf/sdp_helpr_funcs.c
+END
+mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/1172/ser_ims/trunk/modules/Client_Rf/mod.c
+END
+multipart_parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/1069/ser_ims/trunk/modules/Client_Rf/multipart_parse.h
+END
+charging.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/1171/ser_ims/trunk/modules/Client_Rf/charging.c
+END
+sdp_helpr_funcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/1167/ser_ims/trunk/modules/Client_Rf/sdp_helpr_funcs.h
+END
+client_rf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/openimscore/!svn/ver/1153/ser_ims/trunk/modules/Client_Rf/client_rf.xml
+END
+mod.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/1038/ser_ims/trunk/modules/Client_Rf/mod.h
+END
+charging.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/1172/ser_ims/trunk/modules/Client_Rf/charging.h
+END
+sip.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/1114/ser_ims/trunk/modules/Client_Rf/sip.c
+END

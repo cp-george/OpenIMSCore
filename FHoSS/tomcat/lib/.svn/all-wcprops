@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/tomcat/lib
+END
+tomcat-http.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/tomcat/lib/tomcat-http.jar
+END
+jasper-runtime.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/tomcat/lib/jasper-runtime.jar
+END
+commons-el.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/tomcat/lib/commons-el.jar
+END
+jasper-compiler-jdt.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/tomcat/lib/jasper-compiler-jdt.jar
+END
+catalina.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/tomcat/lib/catalina.jar
+END
+naming-factory.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/tomcat/lib/naming-factory.jar
+END
+naming-resources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/tomcat/lib/naming-resources.jar
+END
+tomcat-coyote.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/tomcat/lib/tomcat-coyote.jar
+END
+servlets-default.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/tomcat/lib/servlets-default.jar
+END
+servlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/tomcat/lib/servlet-api.jar
+END
+jasper-compiler.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/tomcat/lib/jasper-compiler.jar
+END
+jmx.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/tomcat/lib/jmx.jar
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/tomcat/lib/commons-logging.jar
+END
+catalina-optional.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/tomcat/lib/catalina-optional.jar
+END
+commons-modeler.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/tomcat/lib/commons-modeler.jar
+END
+tomcat-util.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/tomcat/lib/tomcat-util.jar
+END
+jsp-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/tomcat/lib/jsp-api.jar
+END

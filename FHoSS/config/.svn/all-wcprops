@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/repos/openimscore/!svn/ver/1100/FHoSS/trunk/config
+END
+c3p0.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/119/FHoSS/trunk/config/c3p0.properties
+END
+DiameterPeerHSS.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/1100/FHoSS/trunk/config/DiameterPeerHSS.xml
+END
+hss.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/config/hss.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/config/log4j.properties
+END
+hibernate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/config/hibernate.properties
+END

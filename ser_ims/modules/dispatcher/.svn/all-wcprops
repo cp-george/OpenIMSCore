@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/dispatcher
+END
+dispatch.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/dispatcher/dispatch.c
+END
+dispatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/dispatcher/dispatch.h
+END
+dispatcher.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/dispatcher/dispatcher.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/dispatcher/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/dispatcher/README
+END

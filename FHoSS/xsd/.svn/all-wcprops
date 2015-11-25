@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/xsd
+END
+CxDataType.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/xsd/CxDataType.xsd
+END
+ShDataType.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/xsd/ShDataType.xsd
+END
+ZhDataType.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/openimscore/!svn/ver/211/FHoSS/trunk/xsd/ZhDataType.xsd
+END
+CxDataType_Rel7.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/xsd/CxDataType_Rel7.xsd
+END
+xml.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/211/FHoSS/trunk/xsd/xml.xsd
+END

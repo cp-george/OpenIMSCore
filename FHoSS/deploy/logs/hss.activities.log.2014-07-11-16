@@ -1,0 +1,10 @@
+2014-07-11 16:40:27,517 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-11 16:43:27,517 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-11 16:45:27,517 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-11 16:47:11,269 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-07-11 16:47:11,299 [Thread-16] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:bob@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are De-Registered!
+2014-07-11 16:49:27,517 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing LIR!
+2014-07-11 16:56:56,875 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 16:56:56,894 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-11 16:56:56,907 [Thread-10] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-11 16:56:56,917 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DiameterPeer 
+	FQDN="icscf.imsclone01.ece.upatras.gr"
+	Realm="imsclone01.ece.upatras.gr"
+	Vendor_Id="10415"
+	Product_Name="CDiameterPeer"
+	AcceptUnknownPeers="1"
+	DropUnknownOnDisconnect="1"
+	Tc="30"
+	Workers="4"
+	QueueLength="8"
+	TransactionTimeout="5"
+	SessionsHashSize="128"	
+>
+	<Peer FQDN="hss.imsclone01.ece.upatras.gr" Realm="imsclone01.ece.upatras.gr" port="3868"/> 
+
+	<Acceptor port="3869" bind="192.168.11.135"/>
+	
+	<Auth id="16777216" vendor="10415"/><!-- 3GPP Cx -->
+	<Auth id="16777216" vendor="4491"/><!-- CableLabs Cx -->
+	<Auth id="16777216" vendor="13019"/><!-- ETSI/TISPAN Cx -->
+	<Auth id="16777216" vendor="0"/><!-- ETSI/TISPAN Cx -->
+
+	<DefaultRoute FQDN="hss.imsclone01.ece.upatras.gr" metric="10"/>
+	
+<!-- Realm Routing configuration - Uncomment and Edit!
+
+	<Realm name="imsclone01.ece.upatras.gr">
+		<Route FQDN="hss1.imsclone01.ece.upatras.gr" metric="10"/>
+		<Route FQDN="hss2.imsclone01.ece.upatras.gr" metric="20"/>
+	</Realm>
+	<Realm name="another.imsclone01.ece.upatras.gr">
+		<Route FQDN="hss3.imsclone01.ece.upatras.gr" metric="10"/>
+		<Route FQDN="hss2.imsclone01.ece.upatras.gr" metric="20"/>		
+	</Realm>
+	<DefaultRoute FQDN="hss.imsclone01.ece.upatras.gr" metric="10"/>
+	<DefaultRoute FQDN="hss4.imsclone01.ece.upatras.gr" metric="20"/>
+
+-->
+
+</DiameterPeer>

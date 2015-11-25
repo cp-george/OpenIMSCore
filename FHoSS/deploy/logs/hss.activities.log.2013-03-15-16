@@ -1,0 +1,26 @@
+2013-03-15 16:35:23,617 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-15 16:35:24,788 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 192.168.11.135
+2013-03-15 16:35:25,743 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2013-03-15 16:35:26,620 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2013-03-15 16:35:29,128 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2013-03-15 16:35:29,207 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2013-03-15 16:35:29,230 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.imsclone01.ece.upatras.gr
+2013-03-15 16:35:29,237 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: imsclone01.ece.upatras.gr
+2013-03-15 16:35:29,250 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2013-03-15 16:35:29,253 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2013-03-15 16:35:29,265 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2013-03-15 16:35:29,270 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2013-03-15 16:35:29,304 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2013-03-15 16:35:46,611 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-15 16:35:47,528 [main] ERROR org.apache.coyote.http11.Http11Protocol  - Error initializing endpoint
+java.net.BindException: Address already in use:8080
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.initEndpoint(PoolTcpEndpoint.java:297)
+	at org.apache.coyote.http11.Http11Protocol.init(Http11Protocol.java:142)
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:928)
+	at org.apache.catalina.startup.Embedded.start(Embedded.java:794)
+	at de.fhg.fokus.hss.main.TomcatServer.startTomcat(TomcatServer.java:128)
+	at de.fhg.fokus.hss.main.HSSContainer.<init>(HSSContainer.java:74)
+	at de.fhg.fokus.hss.main.HSSContainer.main(HSSContainer.java:110)
+2013-03-15 16:35:47,557 [main] ERROR de.fhg.fokus.hss.main.HSSContainer  - Exception occured during starting Tomcat!
+Exiting from HSS...

@@ -1,0 +1,48 @@
+2013-03-19 05:28:18,552 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-19 05:28:19,440 [main] ERROR org.apache.coyote.http11.Http11Protocol  - Error initializing endpoint
+java.net.BindException: Address already in use:8080
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.initEndpoint(PoolTcpEndpoint.java:297)
+	at org.apache.coyote.http11.Http11Protocol.init(Http11Protocol.java:142)
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:928)
+	at org.apache.catalina.startup.Embedded.start(Embedded.java:794)
+	at de.fhg.fokus.hss.main.TomcatServer.startTomcat(TomcatServer.java:128)
+	at de.fhg.fokus.hss.main.HSSContainer.<init>(HSSContainer.java:74)
+	at de.fhg.fokus.hss.main.HSSContainer.main(HSSContainer.java:110)
+2013-03-19 05:28:19,443 [main] ERROR de.fhg.fokus.hss.main.HSSContainer  - Exception occured during starting Tomcat!
+Exiting from HSS...
+2013-03-19 05:29:48,185 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-19 05:29:48,845 [main] ERROR org.apache.coyote.http11.Http11Protocol  - Error initializing endpoint
+java.net.BindException: Address already in use:8080
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.initEndpoint(PoolTcpEndpoint.java:297)
+	at org.apache.coyote.http11.Http11Protocol.init(Http11Protocol.java:142)
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:928)
+	at org.apache.catalina.startup.Embedded.start(Embedded.java:794)
+	at de.fhg.fokus.hss.main.TomcatServer.startTomcat(TomcatServer.java:128)
+	at de.fhg.fokus.hss.main.HSSContainer.<init>(HSSContainer.java:74)
+	at de.fhg.fokus.hss.main.HSSContainer.main(HSSContainer.java:110)
+2013-03-19 05:29:48,848 [main] ERROR de.fhg.fokus.hss.main.HSSContainer  - Exception occured during starting Tomcat!
+Exiting from HSS...
+2013-03-19 05:30:32,891 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-19 05:30:33,602 [main] ERROR org.apache.coyote.http11.Http11Protocol  - Error initializing endpoint
+java.net.BindException: Address already in use:8080
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.initEndpoint(PoolTcpEndpoint.java:297)
+	at org.apache.coyote.http11.Http11Protocol.init(Http11Protocol.java:142)
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:928)
+	at org.apache.catalina.startup.Embedded.start(Embedded.java:794)
+	at de.fhg.fokus.hss.main.TomcatServer.startTomcat(TomcatServer.java:128)
+	at de.fhg.fokus.hss.main.HSSContainer.<init>(HSSContainer.java:74)
+	at de.fhg.fokus.hss.main.HSSContainer.main(HSSContainer.java:110)
+2013-03-19 05:30:33,605 [main] ERROR de.fhg.fokus.hss.main.HSSContainer  - Exception occured during starting Tomcat!
+Exiting from HSS...
+2013-03-19 05:30:40,294 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2013-03-19 05:30:40,990 [main] ERROR org.apache.coyote.http11.Http11Protocol  - Error initializing endpoint
+java.net.BindException: Address already in use:8080
+	at org.apache.tomcat.util.net.PoolTcpEndpoint.initEndpoint(PoolTcpEndpoint.java:297)
+	at org.apache.coyote.http11.Http11Protocol.init(Http11Protocol.java:142)
+	at org.apache.catalina.connector.Connector.initialize(Connector.java:928)
+	at org.apache.catalina.startup.Embedded.start(Embedded.java:794)
+	at de.fhg.fokus.hss.main.TomcatServer.startTomcat(TomcatServer.java:128)
+	at de.fhg.fokus.hss.main.HSSContainer.<init>(HSSContainer.java:74)
+	at de.fhg.fokus.hss.main.HSSContainer.main(HSSContainer.java:110)
+2013-03-19 05:30:40,993 [main] ERROR de.fhg.fokus.hss.main.HSSContainer  - Exception occured during starting Tomcat!
+Exiting from HSS...

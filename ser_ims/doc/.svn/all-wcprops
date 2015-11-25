@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/doc
+END
+dst_blacklist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/dst_blacklist.txt
+END
+timers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/timers.txt
+END
+HISTORY
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/HISTORY
+END
+dns.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/dns.txt
+END
+parse_headers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/parse_headers.txt
+END
+locking.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/locking.txt
+END
+ser-coding-style.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/ser-coding-style.txt
+END
+tcp_tunning.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/doc/tcp_tunning.txt
+END
+cvs-commit-rules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/cvs-commit-rules.txt
+END
+ser.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/ser.txt
+END
+doc_root.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/doc_root.xml
+END
+catalog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/catalog.xml
+END
+ser_entities.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/doc/ser_entities.xml
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/Makefile
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/1181/ser_ims/trunk/lib/lost
+END
+client.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/1001/ser_ims/trunk/lib/lost/client.c
+END
+pidf_loc.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/989/ser_ims/trunk/lib/lost/pidf_loc.c
+END
+client.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/1181/ser_ims/trunk/lib/lost/client.h
+END
+parsing.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/989/ser_ims/trunk/lib/lost/parsing.c
+END
+Makefile.ser
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/989/ser_ims/trunk/lib/lost/Makefile.ser
+END
+pidf_loc.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/989/ser_ims/trunk/lib/lost/pidf_loc.h
+END
+parsing.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/989/ser_ims/trunk/lib/lost/parsing.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/1002/ser_ims/trunk/lib/lost/Makefile
+END

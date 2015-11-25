@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/repos/openimscore/!svn/ver/1180/ser_ims/trunk/cfg
+END
+dbdump.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/repos/openimscore/!svn/ver/178/ser_ims/trunk/cfg/dbdump.sh
+END
+cfg.dox
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/repos/openimscore/!svn/ver/178/ser_ims/trunk/cfg/cfg.dox
+END
+tls_prepare.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/325/ser_ims/trunk/cfg/tls_prepare.sh
+END
+add-imscore-user_newdb.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/626/ser_ims/trunk/cfg/add-imscore-user_newdb.sh
+END
+fhoss.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/670/ser_ims/trunk/cfg/fhoss.sh
+END
+remove_sems.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/cfg/remove_sems.sh
+END
+README.PCC
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/722/ser_ims/trunk/cfg/README.PCC
+END
+open-ims.dnszone
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/722/ser_ims/trunk/cfg/open-ims.dnszone
+END
+pcscf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/532/ser_ims/trunk/cfg/pcscf.sh
+END
+trcf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/repos/openimscore/!svn/ver/671/ser_ims/trunk/cfg/trcf.sh
+END
+icscf_pg.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/openimscore/!svn/ver/355/ser_ims/trunk/cfg/icscf_pg.sql
+END
+icscf.thig.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/620/ser_ims/trunk/cfg/icscf.thig.cfg
+END
+lrf.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/1008/ser_ims/trunk/cfg/lrf.cfg
+END
+ecscf.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/1008/ser_ims/trunk/cfg/ecscf.cfg
+END
+TGPPRx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/722/ser_ims/trunk/cfg/TGPPRx.xml
+END
+mgcf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/repos/openimscore/!svn/ver/671/ser_ims/trunk/cfg/mgcf.sh
+END
+icscf.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/repos/openimscore/!svn/ver/680/ser_ims/trunk/cfg/icscf.cfg
+END
+icscf.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/repos/openimscore/!svn/ver/178/ser_ims/trunk/cfg/icscf.sql
+END
+icscf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/1101/ser_ims/trunk/cfg/icscf.xml
+END
+icscf.thig.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/532/ser_ims/trunk/cfg/icscf.thig.sh
+END
+persist_my.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/324/ser_ims/trunk/cfg/persist_my.sql
+END
+pcscf.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/1173/ser_ims/trunk/cfg/pcscf.cfg
+END
+lrf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/repos/openimscore/!svn/ver/1008/ser_ims/trunk/cfg/lrf.sh
+END
+ecscf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/repos/openimscore/!svn/ver/1008/ser_ims/trunk/cfg/ecscf.sh
+END
+trcf.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/670/ser_ims/trunk/cfg/trcf.cfg
+END
+pcscf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/cfg/pcscf.xml
+END
+scscf.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/1057/ser_ims/trunk/cfg/scscf.cfg
+END
+stopser
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/repos/openimscore/!svn/ver/636/ser_ims/trunk/cfg/stopser
+END
+icscf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/532/ser_ims/trunk/cfg/icscf.sh
+END
+scscf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/1180/ser_ims/trunk/cfg/scscf.xml
+END
+TGPPGq.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/722/ser_ims/trunk/cfg/TGPPGq.xml
+END
+killser
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/repos/openimscore/!svn/ver/236/ser_ims/trunk/cfg/killser
+END
+scscf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/532/ser_ims/trunk/cfg/scscf.sh
+END
+mgcf.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/repos/openimscore/!svn/ver/676/ser_ims/trunk/cfg/mgcf.cfg
+END
+configurator.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/184/ser_ims/trunk/cfg/configurator.sh
+END
+persist_pg.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/324/ser_ims/trunk/cfg/persist_pg.sql
+END

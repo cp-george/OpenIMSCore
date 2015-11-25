@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/openimscore/!svn/ver/1163/ser_ims/trunk/modules/cdp_avp
+END
+avp_get_base
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/cdp_avp/avp_get_base
+END
+avp_add.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/926/ser_ims/trunk/modules/cdp_avp/avp_add.c
+END
+imsapp.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/926/ser_ims/trunk/modules/cdp_avp/imsapp.h
+END
+avp_new_base_data_format.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/repos/openimscore/!svn/ver/1075/ser_ims/trunk/modules/cdp_avp/avp_new_base_data_format.h
+END
+avp_new.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/926/ser_ims/trunk/modules/cdp_avp/avp_new.c
+END
+get_reference.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/926/ser_ims/trunk/modules/cdp_avp/get_reference.h
+END
+avp_add.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/926/ser_ims/trunk/modules/cdp_avp/avp_add.h
+END
+avp_new.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/926/ser_ims/trunk/modules/cdp_avp/avp_new.h
+END
+epcapp.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/984/ser_ims/trunk/modules/cdp_avp/epcapp.c
+END
+base.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/926/ser_ims/trunk/modules/cdp_avp/base.c
+END
+epcapp.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/1163/ser_ims/trunk/modules/cdp_avp/epcapp.h
+END
+base.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/1141/ser_ims/trunk/modules/cdp_avp/base.h
+END
+mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/926/ser_ims/trunk/modules/cdp_avp/mod.c
+END
+avp_get_base_data_format.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/repos/openimscore/!svn/ver/1067/ser_ims/trunk/modules/cdp_avp/avp_get_base_data_format.c
+END
+nasapp.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/926/ser_ims/trunk/modules/cdp_avp/nasapp.c
+END
+avp_get_base_data_format.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/repos/openimscore/!svn/ver/1076/ser_ims/trunk/modules/cdp_avp/avp_get_base_data_format.h
+END
+avp_get.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/926/ser_ims/trunk/modules/cdp_avp/avp_get.c
+END
+get_reference.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/cdp_avp/get_reference.sh
+END
+mod_export.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/926/ser_ims/trunk/modules/cdp_avp/mod_export.h
+END
+ccapp.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/926/ser_ims/trunk/modules/cdp_avp/ccapp.c
+END
+nasapp.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/1020/ser_ims/trunk/modules/cdp_avp/nasapp.h
+END
+imsapp.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/926/ser_ims/trunk/modules/cdp_avp/imsapp.c
+END
+macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/926/ser_ims/trunk/modules/cdp_avp/macros.h
+END
+avp_new_base_data_format.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/repos/openimscore/!svn/ver/1145/ser_ims/trunk/modules/cdp_avp/avp_new_base_data_format.c
+END
+avp_get.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/926/ser_ims/trunk/modules/cdp_avp/avp_get.h
+END
+ccapp.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/1020/ser_ims/trunk/modules/cdp_avp/ccapp.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/cdp_avp/Makefile
+END

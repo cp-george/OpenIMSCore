@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/scripts/dbtext/ser_db
+END
+presentity_contact
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/scripts/dbtext/ser_db/presentity_contact
+END
+gw_grp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/gw_grp
+END
+acc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/acc
+END
+pdt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/pdt
+END
+grp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/grp
+END
+trusted
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/trusted
+END
+rls_vs_names
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/rls_vs_names
+END
+attr_types
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/scripts/dbtext/ser_db/attr_types
+END
+uri
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/scripts/dbtext/ser_db/uri
+END
+missed_calls
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/missed_calls
+END
+silo
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/silo
+END
+presentity
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/scripts/dbtext/ser_db/presentity
+END
+location
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/location
+END
+contact_attrs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/scripts/dbtext/ser_db/contact_attrs
+END
+watcherinfo
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/scripts/dbtext/ser_db/watcherinfo
+END
+presentity_persons
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/presentity_persons
+END
+i18n
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/i18n
+END
+lcr
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/lcr
+END
+sd_attrs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/sd_attrs
+END
+phonebook
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/phonebook
+END
+offline_winfo
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/offline_winfo
+END
+customers
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/customers
+END
+domain_attrs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/domain_attrs
+END
+presentity_extensions
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/scripts/dbtext/ser_db/presentity_extensions
+END
+ipmatch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/ipmatch
+END
+version
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/version
+END
+domain_settings
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/domain_settings
+END
+speed_dial
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/speed_dial
+END
+user_attrs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/user_attrs
+END
+credentials
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/credentials
+END
+tuple_notes
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/scripts/dbtext/ser_db/tuple_notes
+END
+rls_subscription
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/rls_subscription
+END
+domain
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/domain
+END
+rls_vs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/rls_vs
+END
+tuple_extensions
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/scripts/dbtext/ser_db/tuple_extensions
+END
+uri_attrs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/scripts/dbtext/ser_db/uri_attrs
+END
+global_attrs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/global_attrs
+END
+gw
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/gw
+END
+presentity_notes
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/scripts/dbtext/ser_db/presentity_notes
+END
+cpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/scripts/dbtext/ser_db/cpl
+END

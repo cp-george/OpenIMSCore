@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/601/FHoSS/trunk/src/de/fhg/fokus/hss/auth
+END
+Milenage.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/auth/Milenage.java
+END
+AuthenticationVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/auth/AuthenticationVector.java
+END
+HexCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/openimscore/!svn/ver/562/FHoSS/trunk/src/de/fhg/fokus/hss/auth/HexCodec.java
+END
+MD5Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/auth/MD5Util.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/repos/openimscore/!svn/ver/394/FHoSS/trunk/src/de/fhg/fokus/hss/auth/package-info.java
+END
+DigestAKA.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/openimscore/!svn/ver/601/FHoSS/trunk/src/de/fhg/fokus/hss/auth/DigestAKA.java
+END
+Rijndael32Bit.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/auth/Rijndael32Bit.java
+END

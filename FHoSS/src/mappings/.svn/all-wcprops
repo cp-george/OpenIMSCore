@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/src/mappings
+END
+IMPU_VisitedNetwork.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/mappings/IMPU_VisitedNetwork.hbm.xml
+END
+AliasesRepositoryData.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/mappings/AliasesRepositoryData.hbm.xml
+END
+Zh_USS.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/mappings/Zh_USS.hbm.xml
+END
+IMSU.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/mappings/IMSU.hbm.xml
+END
+ShSubscription.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/src/mappings/ShSubscription.hbm.xml
+END
+DSAI.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/src/mappings/DSAI.hbm.xml
+END
+Capability.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/mappings/Capability.hbm.xml
+END
+ShNotification.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/mappings/ShNotification.hbm.xml
+END
+VisitedNetwork.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/mappings/VisitedNetwork.hbm.xml
+END
+SP.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/mappings/SP.hbm.xml
+END
+TP.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/mappings/TP.hbm.xml
+END
+IMPI_IMPU.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/mappings/IMPI_IMPU.hbm.xml
+END
+ApplicationServer.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/mappings/ApplicationServer.hbm.xml
+END
+IMPI.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/535/FHoSS/trunk/src/mappings/IMPI.hbm.xml
+END
+ChargingInfo.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/mappings/ChargingInfo.hbm.xml
+END
+CxEvents.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/389/FHoSS/trunk/src/mappings/CxEvents.hbm.xml
+END
+IFC.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/mappings/IFC.hbm.xml
+END
+DSAI_IFC.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/src/mappings/DSAI_IFC.hbm.xml
+END
+Shared_IFC_Set.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/mappings/Shared_IFC_Set.hbm.xml
+END
+SP_IFC.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/mappings/SP_IFC.hbm.xml
+END
+SP_Shared_IFC_Set.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/mappings/SP_Shared_IFC_Set.hbm.xml
+END
+CapabilitiesSet.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/mappings/CapabilitiesSet.hbm.xml
+END
+SPT.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/mappings/SPT.hbm.xml
+END
+RepositoryData.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/mappings/RepositoryData.hbm.xml
+END
+Preferred_SCSCF_Set.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/mappings/Preferred_SCSCF_Set.hbm.xml
+END
+IMPU.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/mappings/IMPU.hbm.xml
+END
+DSAI_IMPU.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/src/mappings/DSAI_IMPU.hbm.xml
+END

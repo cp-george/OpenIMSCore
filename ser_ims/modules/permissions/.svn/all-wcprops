@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/permissions
+END
+trusted_rpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/permissions/trusted_rpc.c
+END
+parse_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/permissions/parse_config.c
+END
+trusted.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/permissions/trusted.h
+END
+im_locks.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/permissions/im_locks.c
+END
+allow_files.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/permissions/allow_files.c
+END
+trusted_hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/permissions/trusted_hash.h
+END
+trusted_rpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/permissions/trusted_rpc.h
+END
+parse_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/permissions/parse_config.h
+END
+im_locks.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/permissions/im_locks.h
+END
+allow_files.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/permissions/allow_files.h
+END
+rule.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/permissions/rule.c
+END
+im_hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/permissions/im_hash.c
+END
+im_rpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/permissions/im_rpc.c
+END
+im_db.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/permissions/im_db.c
+END
+permissions.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/permissions/permissions.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/permissions/README
+END
+rule.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/permissions/rule.h
+END
+im_hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/permissions/im_hash.h
+END
+im_rpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/permissions/im_rpc.h
+END
+im_db.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/permissions/im_db.h
+END
+permissions.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/permissions/permissions.h
+END
+permissions_rpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/permissions/permissions_rpc.h
+END
+ipmatch.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/permissions/ipmatch.c
+END
+ipmatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/permissions/ipmatch.h
+END
+trusted.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/permissions/trusted.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/permissions/Makefile
+END
+trusted_hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/permissions/trusted_hash.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/25/ser_ims/trunk/modules/mediaproxy/config
+END
+rtp-asymmetric-clients
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/mediaproxy/config/rtp-asymmetric-clients
+END
+sip-asymmetric-clients
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/mediaproxy/config/sip-asymmetric-clients
+END
+ser.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/mediaproxy/config/ser.cfg
+END
+Readme
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/mediaproxy/config/Readme
+END

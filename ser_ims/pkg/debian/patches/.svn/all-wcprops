@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/patches
+END
+02_patch_pcscf.dpatch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/patches/02_patch_pcscf.dpatch
+END
+05_patch_Makefile.dpatch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/patches/05_patch_Makefile.dpatch
+END
+03_patch_scscf.dpatch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/patches/03_patch_scscf.dpatch
+END
+01_patch_icscf.dpatch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/patches/01_patch_icscf.dpatch
+END
+04_patch_dns.dpatch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/patches/04_patch_dns.dpatch
+END
+00list
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/patches/00list
+END

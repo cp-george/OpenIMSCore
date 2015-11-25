@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/repos/openimscore/!svn/ver/327/ser_ims/trunk/mem
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/mem/mem.c
+END
+memtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/mem/memtest.c
+END
+meminfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/mem/meminfo.h
+END
+memdbg.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/mem/memdbg.h
+END
+f_malloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/mem/f_malloc.h
+END
+vq_malloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/136/ser_ims/trunk/mem/vq_malloc.h
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/mem/mem.h
+END
+shm_mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/mem/shm_mem.c
+END
+q_malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/327/ser_ims/trunk/mem/q_malloc.c
+END
+shm_mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/mem/shm_mem.h
+END
+f_malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/327/ser_ims/trunk/mem/f_malloc.c
+END
+q_malloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/mem/q_malloc.h
+END
+vq_malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/327/ser_ims/trunk/mem/vq_malloc.c
+END

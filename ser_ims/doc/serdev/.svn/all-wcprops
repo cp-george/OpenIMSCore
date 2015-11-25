@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev
+END
+hdr_field.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/hdr_field.xml
+END
+db_key_t.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/db_key_t.xml
+END
+db_res_t.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/db_res_t.xml
+END
+locking.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/locking.xml
+END
+sr_module.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/sr_module.xml
+END
+lump_rpl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/lump_rpl.xml
+END
+via_parser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/via_parser.xml
+END
+exp_body_t.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/exp_body_t.xml
+END
+via_body.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/via_body.xml
+END
+event_parser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/event_parser.xml
+END
+db_row_t.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/db_row_t.xml
+END
+ip_addr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/ip_addr.xml
+END
+startup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/startup.xml
+END
+db_interface.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/db_interface.xml
+END
+contact_parser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/contact_parser.xml
+END
+cseq_parser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/cseq_parser.xml
+END
+modiface.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/modiface.xml
+END
+contact_body.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/contact_body.xml
+END
+cseq_body.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/cseq_body.xml
+END
+hfname_parser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/hfname_parser.xml
+END
+sip_uri.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/sip_uri.xml
+END
+routing_engine.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/routing_engine.xml
+END
+main_loop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/main_loop.xml
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/Makefile
+END
+select_module.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/select_module.xml
+END
+serdev.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/serdev.xml
+END
+expires_parser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/expires_parser.xml
+END
+digest_parser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/digest_parser.xml
+END
+to_parser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/to_parser.xml
+END
+to_body.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/to_body.xml
+END
+sip_msg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/sip_msg.xml
+END
+msg_parser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/msg_parser.xml
+END
+msg_start.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/msg_start.xml
+END
+event_t.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/event_t.xml
+END
+db_con_t.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/db_con_t.xml
+END
+str.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/str.xml
+END
+module_exports.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/module_exports.xml
+END
+fline_parser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/fline_parser.xml
+END
+db_type_t.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/db_type_t.xml
+END
+db_val_t.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/db_val_t.xml
+END
+shutdown.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/shutdown.xml
+END
+data_structures.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/data_structures.xml
+END
+lump.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/lump.xml
+END
+from_parser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/serdev/from_parser.xml
+END

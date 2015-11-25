@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/openimscore/!svn/ver/650/FHoSS/trunk/src/de/fhg/fokus/hss/cx
+END
+CxFinalResultException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/cx/CxFinalResultException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/openimscore/!svn/ver/394/FHoSS/trunk/src/de/fhg/fokus/hss/cx/package-info.java
+END
+CxExperimentalResultException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/cx/CxExperimentalResultException.java
+END
+CxConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/openimscore/!svn/ver/650/FHoSS/trunk/src/de/fhg/fokus/hss/cx/CxConstants.java
+END

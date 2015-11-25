@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/repos/openimscore/!svn/ver/25/ser_ims/trunk/db
+END
+db_pool.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/db/db_pool.c
+END
+db_id.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/db/db_id.c
+END
+db_row.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/db/db_row.h
+END
+db_key.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/db/db_key.h
+END
+db_pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/db/db_pool.h
+END
+db_res.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/db/db_res.h
+END
+db.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/db/db.c
+END
+db_id.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/db/db_id.h
+END
+db_op.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/db/db_op.h
+END
+db_con.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/db/db_con.h
+END
+db.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/db/db.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/db/README
+END
+db_val.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/db/db_val.h
+END
+db_cap.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/db/db_cap.h
+END

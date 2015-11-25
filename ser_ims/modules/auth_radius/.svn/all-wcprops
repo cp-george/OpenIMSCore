@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/auth_radius
+END
+sterman.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/auth_radius/sterman.h
+END
+authorize.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/auth_radius/authorize.h
+END
+authrad_mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/auth_radius/authrad_mod.c
+END
+sterman.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/auth_radius/sterman.c
+END
+authorize.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/auth_radius/authorize.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/auth_radius/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/auth_radius/README
+END
+authrad_mod.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/auth_radius/authrad_mod.h
+END

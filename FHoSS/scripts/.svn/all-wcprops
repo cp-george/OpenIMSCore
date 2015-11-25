@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/repos/openimscore/!svn/ver/772/FHoSS/trunk/scripts
+END
+hss_db.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/scripts/hss_db.sql
+END
+dbdump.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/repos/openimscore/!svn/ver/603/FHoSS/trunk/scripts/dbdump.sh
+END
+startup.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/772/FHoSS/trunk/scripts/startup.cmd
+END
+userdata.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/650/FHoSS/trunk/scripts/userdata.sql
+END
+hss_db_migrate_dsai.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/scripts/hss_db_migrate_dsai.sql
+END
+startup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/scripts/startup.sh
+END
+cpappend.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/openimscore/!svn/ver/2/FHoSS/trunk/scripts/cpappend.cmd
+END

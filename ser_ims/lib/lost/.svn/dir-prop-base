@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 17
+*.o
+*.so
+*.d
+*.P
+
+K 11
+svn:ingnore
+V 17
+*.so
+*.o
+*.d
+*.P
+
+END

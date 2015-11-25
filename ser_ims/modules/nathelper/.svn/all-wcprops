@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/nathelper
+END
+nathelper.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/nathelper/nathelper.cfg
+END
+sip.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/nathelper/sip.h
+END
+natping.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/nathelper/natping.c
+END
+nathelper_rtpp.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/nathelper/nathelper_rtpp.cfg
+END
+sip_body.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/nathelper/sip_body.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/modules/nathelper/README
+END
+sip_body.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/nathelper/sip_body.h
+END
+nathelper.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/nathelper/nathelper.c
+END
+mod.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/nathelper/mod.h
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/nathelper/TODO
+END
+nhelpr_funcs.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/nathelper/nhelpr_funcs.c
+END
+nathelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/nathelper/nathelper.h
+END
+sip.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/920/ser_ims/trunk/modules/nathelper/sip.c
+END
+nhelpr_funcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/nathelper/nhelpr_funcs.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/nathelper/Makefile
+END

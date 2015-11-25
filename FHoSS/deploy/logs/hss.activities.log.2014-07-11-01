@@ -1,0 +1,146 @@
+2014-07-11 01:03:37,963 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:03:38,055 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-11 01:03:38,063 [Thread-13] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-11 01:03:38,092 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:03:38,138 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:03:57,672 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:03:57,698 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-11 01:03:57,710 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-11 01:03:57,724 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:03:57,772 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:04:01,386 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:04:01,505 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-11 01:04:01,520 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-11 01:04:01,558 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:04:01,633 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:05:40,273 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:05:40,303 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-11 01:05:40,312 [Thread-17] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-11 01:05:40,322 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:05:40,385 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:05:54,123 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:05:54,172 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-11 01:05:54,211 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-11 01:05:54,222 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:05:54,242 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:12:33,763 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:12:33,801 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-11 01:12:33,808 [Thread-13] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-11 01:12:33,818 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:12:33,840 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:12:51,791 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:12:51,817 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-11 01:12:51,822 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-11 01:12:51,830 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:12:51,868 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:13:00,123 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:13:00,160 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-11 01:13:00,174 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-11 01:13:00,180 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:13:00,234 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:13:16,664 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:13:16,687 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-11 01:13:16,694 [Thread-17] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-11 01:13:16,703 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:13:16,744 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:13:32,516 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:13:32,542 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-11 01:13:32,554 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-11 01:13:32,560 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:13:32,604 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:14:20,809 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:14:20,898 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-11 01:14:20,902 [Thread-13] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-11 01:14:20,907 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:14:20,937 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:14:26,897 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:14:26,918 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-11 01:14:26,925 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-11 01:14:26,939 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:14:27,035 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:14:41,764 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:14:41,775 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-11 01:14:41,783 [Thread-15] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-11 01:14:41,788 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:14:41,816 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:14:49,675 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:14:49,696 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-11 01:14:49,703 [Thread-17] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-11 01:14:49,710 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:14:49,766 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:14:52,712 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:14:52,737 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-11 01:14:52,753 [Thread-11] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-11 01:14:52,764 [Thread-10] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:14:52,838 [Thread-15] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:15:02,393 [Thread-19] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:15:02,413 [Thread-13] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-11 01:15:02,424 [Thread-13] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-11 01:15:02,434 [Thread-12] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:15:02,466 [Thread-17] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:19:49,196 [Thread-14] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:19:49,296 [Thread-18] DEBUG de.fhg.fokus.hss.main.Task  - Processing MAR!
+2014-07-11 01:19:49,305 [Thread-18] DEBUG de.fhg.fokus.hss.cx.op.MAR  - Auth-Scheme is Digest-MD5
+2014-07-11 01:19:49,578 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing UAR!
+2014-07-11 01:19:49,683 [Thread-11] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-07-11 01:19:49,999 [Thread-11] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:bob@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are De-Registered!
+2014-07-11 01:30:54,179 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2014-07-11 01:30:56,323 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 192.168.11.135
+2014-07-11 01:30:57,534 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2014-07-11 01:30:58,419 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2014-07-11 01:31:01,675 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2014-07-11 01:31:01,856 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2014-07-11 01:31:01,859 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.imsclone01.ece.upatras.gr
+2014-07-11 01:31:01,859 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: imsclone01.ece.upatras.gr
+2014-07-11 01:31:01,860 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2014-07-11 01:31:01,860 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2014-07-11 01:31:01,860 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2014-07-11 01:31:01,860 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2014-07-11 01:31:01,905 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-07-11 01:31:01,910 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2014-07-11 01:31:16,223 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-07-11 01:31:16,225 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-07-11 01:31:16,226 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-07-11 01:31:16,227 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-07-11 01:31:16,227 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-07-11 01:31:16,228 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-07-11 01:31:16,229 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-07-11 01:31:24,268 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2014-07-11 01:31:25,110 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 192.168.11.135
+2014-07-11 01:31:25,662 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2014-07-11 01:31:26,192 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2014-07-11 01:31:27,960 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2014-07-11 01:31:28,010 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2014-07-11 01:31:28,014 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.imsclone01.ece.upatras.gr
+2014-07-11 01:31:28,014 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: imsclone01.ece.upatras.gr
+2014-07-11 01:31:28,014 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2014-07-11 01:31:28,015 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2014-07-11 01:31:28,015 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2014-07-11 01:31:28,016 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2014-07-11 01:31:28,047 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-07-11 01:31:28,048 [Thread-24] ERROR de.fhg.fokus.diameter.DiameterPeer.peer.StateMachine  - StateMachine: Peer icscf.imsclone01.ece.upatras.gr:3869 not responding to connection attempt 
+2014-07-11 01:31:28,178 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!
+2014-07-11 01:37:22,621 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2014-07-11 01:37:24,023 [main] WARN  org.apache.catalina.connector.MapperListener  - Unknown default host: 192.168.11.135
+2014-07-11 01:37:26,560 [main] INFO  de.fhg.fokus.hss.web.servlet.ResponseFilter  - Response Filter Initialisation!
+2014-07-11 01:37:27,255 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - WebConsole of FHoSS was started !
+2014-07-11 01:37:29,418 [main] WARN  org.hibernate.impl.SessionFactoryObjectFactory  - InitialContext did not implement EventContext
+2014-07-11 01:37:29,487 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Bean style constructor called, don't forget to configure!
+2014-07-11 01:37:29,491 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - FQDN: hss.imsclone01.ece.upatras.gr
+2014-07-11 01:37:29,491 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Realm: imsclone01.ece.upatras.gr
+2014-07-11 01:37:29,491 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Vendor_ID : 10415
+2014-07-11 01:37:29,492 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - Product Name: JavaDiameterPeer
+2014-07-11 01:37:29,492 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - AcceptUnknwonPeers: true
+2014-07-11 01:37:29,492 [main] INFO  de.fhg.fokus.diameter.DiameterPeer.DiameterPeer  - DropUnknownOnDisconnect: true
+2014-07-11 01:37:29,522 [main] INFO  de.fhg.fokus.hss.main.HSSContainer  - 
+Type "exit" to stop FHoSS!

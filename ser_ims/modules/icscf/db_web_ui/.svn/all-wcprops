@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/openimscore/!svn/ver/605/ser_ims/trunk/modules/icscf/db_web_ui
+END
+functions.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/openimscore/!svn/ver/605/ser_ims/trunk/modules/icscf/db_web_ui/functions.inc
+END
+welcome.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/openimscore/!svn/ver/605/ser_ims/trunk/modules/icscf/db_web_ui/welcome.php
+END
+index_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/openimscore/!svn/ver/605/ser_ims/trunk/modules/icscf/db_web_ui/index_main.php
+END
+menu_left.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/openimscore/!svn/ver/605/ser_ims/trunk/modules/icscf/db_web_ui/menu_left.php
+END
+pre_icscf.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/openimscore/!svn/ver/605/ser_ims/trunk/modules/icscf/db_web_ui/pre_icscf.inc
+END
+scscf.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/605/ser_ims/trunk/modules/icscf/db_web_ui/scscf.php
+END
+index_under.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/openimscore/!svn/ver/605/ser_ims/trunk/modules/icscf/db_web_ui/index_under.php
+END
+nds.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/openimscore/!svn/ver/605/ser_ims/trunk/modules/icscf/db_web_ui/nds.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/605/ser_ims/trunk/modules/icscf/db_web_ui/.htaccess
+END
+.htpasswd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/605/ser_ims/trunk/modules/icscf/db_web_ui/.htpasswd
+END
+menu_top.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/605/ser_ims/trunk/modules/icscf/db_web_ui/menu_top.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/605/ser_ims/trunk/modules/icscf/db_web_ui/index.php
+END
+post.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/openimscore/!svn/ver/605/ser_ims/trunk/modules/icscf/db_web_ui/post.inc
+END
+config.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/openimscore/!svn/ver/605/ser_ims/trunk/modules/icscf/db_web_ui/config.inc
+END

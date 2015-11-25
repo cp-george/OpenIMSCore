@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/src/de/fhg/fokus/hss/sh/data
+END
+PublicIdentityElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/sh/data/PublicIdentityElement.java
+END
+ChargingInformationElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/sh/data/ChargingInformationElement.java
+END
+ApplicationServerElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/sh/data/ApplicationServerElement.java
+END
+ShDataExtensionElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/sh/data/ShDataExtensionElement.java
+END
+ShDataElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/sh/data/ShDataElement.java
+END
+CSLocationInformationElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/sh/data/CSLocationInformationElement.java
+END
+SPTElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/sh/data/SPTElement.java
+END
+ShDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/sh/data/ShDataParser.java
+END
+ShDataTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/sh/data/ShDataTags.java
+END
+RepositoryDataElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/sh/data/RepositoryDataElement.java
+END
+AliasesRepositoryDataElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/sh/data/AliasesRepositoryDataElement.java
+END
+TriggerPointElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/sh/data/TriggerPointElement.java
+END
+ShIMSDataElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/sh/data/ShIMSDataElement.java
+END
+DSAIElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/repos/openimscore/!svn/ver/612/FHoSS/trunk/src/de/fhg/fokus/hss/sh/data/DSAIElement.java
+END
+PSLocationInformationElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/sh/data/PSLocationInformationElement.java
+END
+InitialFilterCriteriaElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/repos/openimscore/!svn/ver/371/FHoSS/trunk/src/de/fhg/fokus/hss/sh/data/InitialFilterCriteriaElement.java
+END

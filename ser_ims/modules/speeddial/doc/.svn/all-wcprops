@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/25/ser_ims/trunk/modules/speeddial/doc
+END
+params.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/speeddial/doc/params.xml
+END
+faq.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/speeddial/doc/faq.xml
+END
+functions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/speeddial/doc/functions.xml
+END
+speeddial.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/speeddial/doc/speeddial.cfg
+END
+speeddial.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/speeddial/doc/speeddial.sql
+END
+speeddial.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/speeddial/doc/speeddial.xml
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/modules/speeddial/doc/Makefile
+END

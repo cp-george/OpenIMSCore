@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/control
+END
+openimscore-scscf.init
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-scscf.init
+END
+openimscore-scscf.config
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-scscf.config
+END
+openimscore.install
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore.install
+END
+openimscore-icscf.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-icscf.postrm
+END
+openimscore-icscf.prerm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-icscf.prerm
+END
+openimscore-dnsconf.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-dnsconf.postinst
+END
+openimscore-dnsconf.prerm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-dnsconf.prerm
+END
+openimscore-pcscf.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-pcscf.postinst
+END
+openimscore-pcscf.prerm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-pcscf.prerm
+END
+openimscore-scscf.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-scscf.postrm
+END
+openimscore-icscf.templates
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-icscf.templates
+END
+openimscore-scscf.prerm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-scscf.prerm
+END
+openimscore-dnsconf.templates
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-dnsconf.templates
+END
+openimscore-pcscf.templates
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-pcscf.templates
+END
+openimscore-icscf.install
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-icscf.install
+END
+openimscore-scscf.templates
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-scscf.templates
+END
+openimscore-dnsconf.config
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-dnsconf.config
+END
+openimscore-dnsconf.install
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-dnsconf.install
+END
+openimscore-pcscf.init
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-pcscf.init
+END
+openimscore-pcscf.config
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-pcscf.config
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/compat
+END
+openimscore-pcscf.install
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-pcscf.install
+END
+openimscore-scscf.install
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-scscf.install
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/changelog
+END
+openimscore-icscf.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-icscf.postinst
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/rules
+END
+openimscore-dnsconf.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-dnsconf.postrm
+END
+openimscore-pcscf.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-pcscf.postrm
+END
+openimscore-scscf.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-scscf.postinst
+END
+openimscore-icscf.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-icscf.dirs
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/copyright
+END
+openimscore-icscf.init
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-icscf.init
+END
+openimscore-icscf.config
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/openimscore/!svn/ver/732/ser_ims/trunk/pkg/debian/openimscore-icscf.config
+END

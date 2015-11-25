@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/doc/stylesheets/dbschema/xsl
+END
+dbtext.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/doc/stylesheets/dbschema/xsl/dbtext.xsl
+END
+sql.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/doc/stylesheets/dbschema/xsl/sql.xsl
+END
+docbook.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/openimscore/!svn/ver/2/ser_ims/trunk/doc/stylesheets/dbschema/xsl/docbook.xsl
+END
+mysql.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/doc/stylesheets/dbschema/xsl/mysql.xsl
+END
+oracle.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/doc/stylesheets/dbschema/xsl/oracle.xsl
+END
+postgres.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/doc/stylesheets/dbschema/xsl/postgres.xsl
+END
+common.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/openimscore/!svn/ver/166/ser_ims/trunk/doc/stylesheets/dbschema/xsl/common.xsl
+END

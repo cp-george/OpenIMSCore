@@ -1,0 +1,2 @@
+2014-07-11 14:59:50,611 [Thread-16] DEBUG de.fhg.fokus.hss.main.Task  - Processing SAR!
+2014-07-11 14:59:50,674 [Thread-16] INFO  de.fhg.fokus.hss.cx.op.SAR  - User with Public Identity: sip:bob@imsclone01.ece.upatras.gr and all its coresponding implicit-set identities are De-Registered!

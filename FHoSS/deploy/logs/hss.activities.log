@@ -1,5 +1,5 @@
-2015-11-18 00:03:58,266 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
-2015-11-18 00:03:59,046 [main] ERROR org.apache.coyote.http11.Http11Protocol  - Error initializing endpoint
+2015-11-25 18:00:47,932 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
+2015-11-25 18:00:52,777 [main] ERROR org.apache.coyote.http11.Http11Protocol  - Error initializing endpoint
 java.net.BindException: Cannot assign requested address:8080
 	at org.apache.tomcat.util.net.PoolTcpEndpoint.initEndpoint(PoolTcpEndpoint.java:297)
 	at org.apache.coyote.http11.Http11Protocol.init(Http11Protocol.java:142)
@@ -8,17 +8,5 @@ java.net.BindException: Cannot assign requested address:8080
 	at de.fhg.fokus.hss.main.TomcatServer.startTomcat(TomcatServer.java:128)
 	at de.fhg.fokus.hss.main.HSSContainer.<init>(HSSContainer.java:74)
 	at de.fhg.fokus.hss.main.HSSContainer.main(HSSContainer.java:110)
-2015-11-18 00:03:59,049 [main] ERROR de.fhg.fokus.hss.main.HSSContainer  - Exception occured during starting Tomcat!
-Exiting from HSS...
-2015-11-18 00:05:53,841 [main] INFO  de.fhg.fokus.hss.main.TomcatServer  - Tomcat-Server is started.
-2015-11-18 00:05:54,490 [main] ERROR org.apache.coyote.http11.Http11Protocol  - Error initializing endpoint
-java.net.BindException: Cannot assign requested address:8080
-	at org.apache.tomcat.util.net.PoolTcpEndpoint.initEndpoint(PoolTcpEndpoint.java:297)
-	at org.apache.coyote.http11.Http11Protocol.init(Http11Protocol.java:142)
-	at org.apache.catalina.connector.Connector.initialize(Connector.java:928)
-	at org.apache.catalina.startup.Embedded.start(Embedded.java:794)
-	at de.fhg.fokus.hss.main.TomcatServer.startTomcat(TomcatServer.java:128)
-	at de.fhg.fokus.hss.main.HSSContainer.<init>(HSSContainer.java:74)
-	at de.fhg.fokus.hss.main.HSSContainer.main(HSSContainer.java:110)
-2015-11-18 00:05:54,493 [main] ERROR de.fhg.fokus.hss.main.HSSContainer  - Exception occured during starting Tomcat!
+2015-11-25 18:00:52,779 [main] ERROR de.fhg.fokus.hss.main.HSSContainer  - Exception occured during starting Tomcat!
 Exiting from HSS...
